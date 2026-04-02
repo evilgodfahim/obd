@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 14:50:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 15:55:42 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 14:50:26 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 15:55:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Keep a wary eye on fuel hoarders]]></title>
             <description><![CDATA[The seizure of 87,700 litres of illegally hoarded fuel in just 24 hours is both]]></description>
             <link>https://observerbd.com/news/571320</link>
             <guid isPermaLink="true">https://observerbd.com/news/571320</guid>
-            <pubDate>Thu, 02 Apr 2026 14:50:26 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 15:55:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A grim picture of fuel crisis in Narail]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/571321</link>
             <guid isPermaLink="true">https://observerbd.com/news/571321</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Thu, 02 Apr 2026 14:50:26 GMT</pubDate>
+            <pubDate>Thu, 02 Apr 2026 15:55:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
