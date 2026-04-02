@@ -8,7 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
+    permissions:
+      contents: write
+
     services:
       flaresolverr:
         image: ghcr.io/flaresolverr/flaresolverr:latest
@@ -17,7 +20,7 @@ jobs:
         env:
           LOG_LEVEL: info
           CAPTCHA_SOLVER: none
-    
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -51,10 +54,15 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -f feeds/feed.xml ]; then
-            git add feeds/feed.xml
-            git commit -m "Auto-update RSS feed [skip ci]" || echo "No changes to commit"
-            git push
+
+          if [ -f feeds/observer_opinion.xml ] || [ -f feeds/observer_editorial.xml ]; then
+            git add feeds/*.xml
+            if git diff --cached --quiet; then
+              echo "No changes to commit"
+            else
+              git commit -m "Auto-update RSS feed [skip ci]"
+              git push
+            fi
           else
-            echo "⚠️ feeds/feed.xml not found. Skipping commit."
+            echo "⚠️ RSS feed files not found. Skipping commit."
           fi
