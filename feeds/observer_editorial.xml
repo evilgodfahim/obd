@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 04:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 06:09:27 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 04:26:08 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 06:09:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Measles outbreaks expose healthcare gaps]]></title>
             <description><![CDATA[The alarming rise in measles infections across Bangladesh, accompanied by an increasing number of child]]></description>
             <link>https://observerbd.com/news/571430</link>
             <guid isPermaLink="true">https://observerbd.com/news/571430</guid>
-            <pubDate>Fri, 03 Apr 2026 04:26:08 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 06:09:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Urgent need to address visual pollution in Chittagong]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/571431</link>
             <guid isPermaLink="true">https://observerbd.com/news/571431</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Fri, 03 Apr 2026 04:26:08 GMT</pubDate>
+            <pubDate>Fri, 03 Apr 2026 06:09:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
