@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 01:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 04:29:52 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 01:52:03 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 04:29:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Measles surge: A ticking time bomb for our children]]></title>
             <description><![CDATA[The alarming resurgence of measles across the country demands urgent attention, swift action, and sustained]]></description>
             <link>https://observerbd.com/news/572002</link>
             <guid isPermaLink="true">https://observerbd.com/news/572002</guid>
-            <pubDate>Tue, 07 Apr 2026 01:52:03 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 04:29:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ban tobacco sales on campus]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/572003</link>
             <guid isPermaLink="true">https://observerbd.com/news/572003</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Tue, 07 Apr 2026 01:52:03 GMT</pubDate>
+            <pubDate>Tue, 07 Apr 2026 04:29:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
