@@ -1,131 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Opinion]]></title>
-        <description><![CDATA[Latest opinion pieces from The Daily Observer]]></description>
+        <title><![CDATA[The Daily Observer – Opinion (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 18:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 19:56:22 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/246" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 19:56:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The economics of money laundering: The impact, responsibility, and recovery of $234bn]]></title>
-            <description><![CDATA[The Prime Minister of Bangladesh stated in a session of the National Parliament that approximately]]></description>
-            <link>https://observerbd.com/news/572168</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572168</guid>
-            <dc:creator><![CDATA[Dr. Md. Mizanur Rahman]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/04/08/ob_1775582194_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Central Bank Independence Matters: Lessons from Bangladesh]]></title>
-            <description><![CDATA[Central bank independence is widely regarded as one of the most important safeguards for macroeconomic]]></description>
-            <link>https://observerbd.com/news/572048</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572048</guid>
-            <dc:creator><![CDATA[Md. Kamruzzaman]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New prospects for economic growth through canal excavation]]></title>
-            <description><![CDATA[Bangladesh has long been described as a land of rivers and canals. In the basin]]></description>
-            <link>https://observerbd.com/news/571680</link>
-            <guid isPermaLink="true">https://observerbd.com/news/571680</guid>
-            <dc:creator><![CDATA[Dr. Md. Mizanur Rahman]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's wrong with low-cost Panjabi of Nobin Fashion?]]></title>
-            <description><![CDATA[M/s Nobin Fashion gained significant attention recently for selling high-quality products at significantly lower prices]]></description>
-            <link>https://observerbd.com/news/571531</link>
-            <guid isPermaLink="true">https://observerbd.com/news/571531</guid>
-            <dc:creator><![CDATA[MS Siddiqui]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/04/03/ob_1775211311_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Comparative analysis of Bangladesh education system on South Asian perspective]]></title>
-            <description><![CDATA[Like many other developing countries in South Asia, education deserves a high priority in Bangladesh.]]></description>
-            <link>https://observerbd.com/news/571354</link>
-            <guid isPermaLink="true">https://observerbd.com/news/571354</guid>
-            <dc:creator><![CDATA[Md. Moazzom Hossain]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mandela’s wisdom vs. Middle East tension: Can South Asia find peace?]]></title>
-            <description><![CDATA[After the British left the Indian subcontinent in 1947, this region rarely enjoyed the benefits]]></description>
-            <link>https://observerbd.com/news/570797</link>
-            <guid isPermaLink="true">https://observerbd.com/news/570797</guid>
-            <dc:creator><![CDATA[Sifat Kabir]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/03/28/ob_61.1774692916_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Government assurances vs. reality: A nation lost in energy crisis]]></title>
-            <description><![CDATA[Bangladesh’s energy sector today faces a perplexing paradox; while the government repeatedly assures the public]]></description>
-            <link>https://observerbd.com/news/570795</link>
-            <guid isPermaLink="true">https://observerbd.com/news/570795</guid>
-            <dc:creator><![CDATA[Md. Magem Ali Molin]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/03/28/ob_61.1774692576_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canal excavation: A new momentum for rural economy]]></title>
-            <description><![CDATA[Our country is called riverine not just for the number of rivers; rather, it is]]></description>
-            <link>https://observerbd.com/news/570459</link>
-            <guid isPermaLink="true">https://observerbd.com/news/570459</guid>
-            <dc:creator><![CDATA[Ahsan Habib Barun]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E-Health Card: A Revolutionary Integration of Technology in Healthcare]]></title>
-            <description><![CDATA[Bangladesh’s healthcare sector has long been facing various challenges. Population pressure, rising medical costs, and]]></description>
-            <link>https://observerbd.com/news/570316</link>
-            <guid isPermaLink="true">https://observerbd.com/news/570316</guid>
-            <dc:creator><![CDATA[Sirajul Islam]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Government's multifaceted initiatives to address energy crisis]]></title>
-            <description><![CDATA[In the context of ongoing instability in the Middle East and fluctuations in the global]]></description>
-            <link>https://observerbd.com/news/570315</link>
-            <guid isPermaLink="true">https://observerbd.com/news/570315</guid>
-            <dc:creator><![CDATA[M Raihanul Islam]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the US-Israeli aggression on Iran exposed the Hollow Promise of a rules-based order]]></title>
-            <description><![CDATA[At dawn on 28 February 2026, American and Israeli warplanes struck Iran in an operation]]></description>
-            <link>https://observerbd.com/news/570297</link>
-            <guid isPermaLink="true">https://observerbd.com/news/570297</guid>
-            <dc:creator><![CDATA[Rajeev Ahmed]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/03/23/ob_56.1774284663_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[E-Health Card: A new possibility in healthcare management]]></title>
-            <description><![CDATA[Bangladesh’s healthcare sector has long been facing various challenges. Population pressure, rising medical costs, and]]></description>
-            <link>https://observerbd.com/news/570265</link>
-            <guid isPermaLink="true">https://observerbd.com/news/570265</guid>
-            <dc:creator><![CDATA[Sirajul Islam]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canal excavation and tree plantation: Govt leads where environmentalists failed]]></title>
-            <description><![CDATA[Within just one month of taking office, Prime Minister Tarique Rahman’s government has launched a]]></description>
-            <link>https://observerbd.com/news/570194</link>
-            <guid isPermaLink="true">https://observerbd.com/news/570194</guid>
-            <dc:creator><![CDATA[Mostafa Kamal]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/03/19/ob_61.1773920928_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canal excavation: Opening a new gateway to development, production]]></title>
-            <description><![CDATA[Once, canals were inseparably connected with the settlements, agriculture and livelihoods of rural Bangladesh. However,]]></description>
-            <link>https://observerbd.com/news/569895</link>
-            <guid isPermaLink="true">https://observerbd.com/news/569895</guid>
-            <dc:creator><![CDATA[Ahsan Habib Barun]]></dc:creator>
-            <pubDate>Wed, 08 Apr 2026 18:03:25 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/03/16/ob_61.1773670256_th.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://observerbd.com</link>
+            <guid isPermaLink="true">https://observerbd.com</guid>
+            <pubDate>Wed, 08 Apr 2026 19:56:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
