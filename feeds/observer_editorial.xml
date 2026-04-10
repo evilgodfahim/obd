@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial]]></title>
-        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
+        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 08:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 10:06:31 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 08:19:20 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 10:06:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[BD races to secure fuel in the face growing energy vulnerabilities]]></title>
-            <description><![CDATA[Bangladesh's decision to import 300,000 tonnes of diesel on an emergency basis is a stark]]></description>
-            <link>https://observerbd.com/news/572326</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572326</guid>
-            <pubDate>Fri, 10 Apr 2026 08:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ensure strict security for Baisakhi Mela]]></title>
-            <description><![CDATA[Dear Sir,The Pahela Baishakh fair is one of the most vibrant celebrations of Bengali life]]></description>
-            <link>https://observerbd.com/news/572327</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572327</guid>
-            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 08:19:20 GMT</pubDate>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://observerbd.com</link>
+            <guid isPermaLink="true">https://observerbd.com</guid>
+            <pubDate>Fri, 10 Apr 2026 10:06:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
