@@ -4,24 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 19:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 20:29:21 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 19:35:52 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 20:29:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Return of syndicate likely in sending workers to Malaysia]]></title>
-            <description><![CDATA[This is good news that Malaysia will reopen its labour market for Bangladeshi workers amid]]></description>
-            <link>https://observerbd.com/news/572622</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572622</guid>
-            <pubDate>Sun, 12 Apr 2026 19:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rein in measles spread]]></title>
-            <description><![CDATA[Dear Sir,Measles is once again raising concern in Bangladesh, but it should not create panic.]]></description>
-            <link>https://observerbd.com/news/572623</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572623</guid>
-            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 12 Apr 2026 19:35:52 GMT</pubDate>
+            <title><![CDATA[No articles found]]></title>
+            <description><![CDATA[RSS feed could not scrape any articles.]]></description>
+            <link>https://observerbd.com/menu/199</link>
+            <guid isPermaLink="true">https://observerbd.com/menu/199</guid>
+            <pubDate>Sun, 12 Apr 2026 20:29:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
