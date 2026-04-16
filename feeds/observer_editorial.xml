@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 05:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 07:23:35 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 05:25:21 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 07:23:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[No end in sight to Iran war]]></title>
             <description><![CDATA[With the US-Iran two-week ceasefire set to expire on April 22, there is no end]]></description>
             <link>https://observerbd.com/news/572968</link>
             <guid isPermaLink="true">https://observerbd.com/news/572968</guid>
-            <pubDate>Thu, 16 Apr 2026 05:25:21 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2026 07:23:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tame inflation]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/572969</link>
             <guid isPermaLink="true">https://observerbd.com/news/572969</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Thu, 16 Apr 2026 05:25:21 GMT</pubDate>
+            <pubDate>Thu, 16 Apr 2026 07:23:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
