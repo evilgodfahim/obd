@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 13:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 15:13:23 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 13:16:35 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 15:13:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Fuel price hike adds to people's woes]]></title>
             <description><![CDATA[At last, the government has hiked fuel prices to align them with international markets. This]]></description>
             <link>https://observerbd.com/news/573497</link>
             <guid isPermaLink="true">https://observerbd.com/news/573497</guid>
-            <pubDate>Mon, 20 Apr 2026 13:16:35 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 15:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ensure individual data protection]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/573498</link>
             <guid isPermaLink="true">https://observerbd.com/news/573498</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Mon, 20 Apr 2026 13:16:35 GMT</pubDate>
+            <pubDate>Mon, 20 Apr 2026 15:13:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
