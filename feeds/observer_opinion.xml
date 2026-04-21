@@ -1,132 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Opinion]]></title>
-        <description><![CDATA[Latest opinion pieces from The Daily Observer]]></description>
+        <title><![CDATA[The Daily Observer – Opinion (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 17:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 19:05:58 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/246" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 19:05:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Energy shock and Boro rice: The rising threat to Bangladesh’s food security]]></title>
-            <description><![CDATA[Bangladesh’s economic structure remains deeply agriculture-dependent. At the center of this structure lies rice production,]]></description>
-            <link>https://observerbd.com/news/573675</link>
-            <guid isPermaLink="true">https://observerbd.com/news/573675</guid>
-            <dc:creator><![CDATA[Dr. Md. Mizanur Rahman]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/04/21/ob_1776780303_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Excellence of patience, gratefulness: Salute to the heros, soldiers]]></title>
-            <description><![CDATA[Above symbolic picture is one of the realities of life that most people do not]]></description>
-            <link>https://observerbd.com/news/573188</link>
-            <guid isPermaLink="true">https://observerbd.com/news/573188</guid>
-            <dc:creator><![CDATA[Dr. Abdullah Al Mamun]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chronic stress is modern life's invisible companion]]></title>
-            <description><![CDATA[Time is running and we are running after the time. We are part of such]]></description>
-            <link>https://observerbd.com/news/573061</link>
-            <guid isPermaLink="true">https://observerbd.com/news/573061</guid>
-            <dc:creator><![CDATA[Lt Col Jeenia Haque, psc, Signals]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/04/16/ob_1776341805_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s growth slowdown signals a deeper policy challenge]]></title>
-            <description><![CDATA[Bangladesh’s economy is entering a more complex and uncertain phase at a time when both]]></description>
-            <link>https://observerbd.com/news/573060</link>
-            <guid isPermaLink="true">https://observerbd.com/news/573060</guid>
-            <dc:creator><![CDATA[Md Kamruzzaman]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/04/16/ob_1776341202_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A new chapter in Bangladesh-US bilateral relations]]></title>
-            <description><![CDATA[In the sphere of international relations, the fundamental principle of Bangladesh’s foreign policy has long]]></description>
-            <link>https://observerbd.com/news/572958</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572958</guid>
-            <dc:creator><![CDATA[Dr. Mohammad Moazzem Hossain]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/04/15/ob_1776261529_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt’s positive initiatives to address the Middle East war situation]]></title>
-            <description><![CDATA[In the context of Israeli and US aggression against Iran, the recent war situation in]]></description>
-            <link>https://observerbd.com/news/572921</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572921</guid>
-            <dc:creator><![CDATA[Ahsan Habib Barun]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh as a victim of the Hormuz crisis: Effective recommendations for mitigation]]></title>
-            <description><![CDATA[The heated geopolitics of the Middle East is not a new phenomenon; however, the recent]]></description>
-            <link>https://observerbd.com/news/572822</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572822</guid>
-            <dc:creator><![CDATA[Sirajul Islam]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/04/13/ob_61.1776091358_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The depths of emotion: Love beyond the bars]]></title>
-            <description><![CDATA[The iron shackles of a courtroom and the rigid dock of the law may confine]]></description>
-            <link>https://observerbd.com/news/572676</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572676</guid>
-            <dc:creator><![CDATA[Adv Serajul Islam]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/04/12/ob_34.1775986606_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh as a victim of the Strait of Hormuz conflict: Effective recommendations for mitigation]]></title>
-            <description><![CDATA[Over the past decade, Bangladesh has experienced rapid economic and social development, where energy oil]]></description>
-            <link>https://observerbd.com/news/572580</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572580</guid>
-            <dc:creator><![CDATA[Dr Md Mizanur Rahman]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two-month of government and public expectations]]></title>
-            <description><![CDATA[The beginning of a new government always brings the anticipation of a new dawn. It]]></description>
-            <link>https://observerbd.com/news/572466</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572466</guid>
-            <dc:creator><![CDATA[Ahsan Habib Barun]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solar power: Potential, reality and recommendations]]></title>
-            <description><![CDATA[The urge to find solutions often arises only when we are faced with scarcity and]]></description>
-            <link>https://observerbd.com/news/572355</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572355</guid>
-            <dc:creator><![CDATA[Mostafa Kamal]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/04/09/ob_1775748641_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt takes rapid action against growing measles threat]]></title>
-            <description><![CDATA[The resurgence of measles across the country has taken a serious turn, creating a new]]></description>
-            <link>https://observerbd.com/news/572354</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572354</guid>
-            <dc:creator><![CDATA[Abdullah Al Mamun]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The economics of money laundering: The impact, responsibility, and recovery of $234bn]]></title>
-            <description><![CDATA[The Prime Minister of Bangladesh stated in a session of the National Parliament that approximately]]></description>
-            <link>https://observerbd.com/news/572168</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572168</guid>
-            <dc:creator><![CDATA[Dr. Md. Mizanur Rahman]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/04/08/ob_1775582194_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Central Bank Independence Matters: Lessons from Bangladesh]]></title>
-            <description><![CDATA[Central bank independence is widely regarded as one of the most important safeguards for macroeconomic]]></description>
-            <link>https://observerbd.com/news/572048</link>
-            <guid isPermaLink="true">https://observerbd.com/news/572048</guid>
-            <dc:creator><![CDATA[Md. Kamruzzaman]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 17:56:04 GMT</pubDate>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://observerbd.com</link>
+            <guid isPermaLink="true">https://observerbd.com</guid>
+            <pubDate>Tue, 21 Apr 2026 19:05:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
