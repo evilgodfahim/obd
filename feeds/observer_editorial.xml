@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Observer – Editorial]]></title>
+        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 19:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 20:43:27 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 19:07:01 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 20:43:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://observerbd.com</link>
-            <guid isPermaLink="true">https://observerbd.com</guid>
-            <pubDate>Tue, 21 Apr 2026 19:07:01 GMT</pubDate>
+            <title><![CDATA[Ties with EU set to grow]]></title>
+            <description><![CDATA[The initialling of the Partnership and Cooperation Agreement (PCA) between Bangladesh and the European Union]]></description>
+            <link>https://observerbd.com/news/573731</link>
+            <guid isPermaLink="true">https://observerbd.com/news/573731</guid>
+            <pubDate>Tue, 21 Apr 2026 20:43:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lack of adequate treatment in rural areas]]></title>
+            <description><![CDATA[Dear Sir,The grim picture of health care in remote areas is not a statistic, but]]></description>
+            <link>https://observerbd.com/news/573732</link>
+            <guid isPermaLink="true">https://observerbd.com/news/573732</guid>
+            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 20:43:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
