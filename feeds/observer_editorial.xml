@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 19:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 20:32:39 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 19:40:26 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 20:32:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Heatwaves hamper normal life]]></title>
             <description><![CDATA[The country has been experiencing severe heatwaves, disrupting the normal lives of people, particularly in]]></description>
             <link>https://observerbd.com/news/574194</link>
             <guid isPermaLink="true">https://observerbd.com/news/574194</guid>
-            <pubDate>Sat, 25 Apr 2026 19:40:26 GMT</pubDate>
+            <pubDate>Sat, 25 Apr 2026 20:32:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heat and acidity, a seasonal strain on public health]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/574195</link>
             <guid isPermaLink="true">https://observerbd.com/news/574195</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 19:40:26 GMT</pubDate>
+            <pubDate>Sat, 25 Apr 2026 20:32:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
