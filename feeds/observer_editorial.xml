@@ -4,24 +4,24 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 17:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 18:41:04 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 17:33:58 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 18:41:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Bus fare hike adds to commuters' woes]]></title>
-            <description><![CDATA[The government's decision to raise bus fares by 11 paisa per kilometre may appear modest,]]></description>
-            <link>https://observerbd.com/news/574016</link>
-            <guid isPermaLink="true">https://observerbd.com/news/574016</guid>
-            <pubDate>Sat, 25 Apr 2026 17:33:58 GMT</pubDate>
+            <title><![CDATA[Heatwaves hamper normal life]]></title>
+            <description><![CDATA[The country has been experiencing severe heatwaves, disrupting the normal lives of people, particularly in]]></description>
+            <link>https://observerbd.com/news/574194</link>
+            <guid isPermaLink="true">https://observerbd.com/news/574194</guid>
+            <pubDate>Sat, 25 Apr 2026 18:41:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ensure a safe campus]]></title>
-            <description><![CDATA[Dear Sir,Recently, incidents of student clashes in various educational institutions across the country have been]]></description>
-            <link>https://observerbd.com/news/574017</link>
-            <guid isPermaLink="true">https://observerbd.com/news/574017</guid>
+            <title><![CDATA[Heat and acidity, a seasonal strain on public health]]></title>
+            <description><![CDATA[Dear Sir,As temperatures rise, so does an often-overlooked health concern�acidity. The intense summer heat not]]></description>
+            <link>https://observerbd.com/news/574195</link>
+            <guid isPermaLink="true">https://observerbd.com/news/574195</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sat, 25 Apr 2026 17:33:58 GMT</pubDate>
+            <pubDate>Sat, 25 Apr 2026 18:41:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
