@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 12:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 15:04:07 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 12:11:55 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 15:04:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Confusion befalls militants’ presence]]></title>
             <description><![CDATA[This is at best alarming and at worst frightening that militancy has reared its head]]></description>
             <link>https://observerbd.com/news/574631</link>
             <guid isPermaLink="true">https://observerbd.com/news/574631</guid>
-            <pubDate>Thu, 30 Apr 2026 12:11:55 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 15:04:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stop selling expired food]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/574632</link>
             <guid isPermaLink="true">https://observerbd.com/news/574632</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 12:11:55 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 15:04:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
