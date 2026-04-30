@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 19:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 20:54:21 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 19:10:52 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 20:54:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Haor floods worsen crop loss crisis]]></title>
             <description><![CDATA[The current wave of incessant rainfall, combined with rising upstream water flow, has once again]]></description>
             <link>https://observerbd.com/news/574728</link>
             <guid isPermaLink="true">https://observerbd.com/news/574728</guid>
-            <pubDate>Thu, 30 Apr 2026 19:10:52 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 20:54:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Labour rights in the age of automation]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/574729</link>
             <guid isPermaLink="true">https://observerbd.com/news/574729</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Thu, 30 Apr 2026 19:10:52 GMT</pubDate>
+            <pubDate>Thu, 30 Apr 2026 20:54:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
