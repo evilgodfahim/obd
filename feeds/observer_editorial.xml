@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 20:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 21:36:29 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 20:37:19 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 21:36:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why waterlogging persists in Dhaka, Ctg]]></title>
             <description><![CDATA[The country's two major cities, Dhaka and Chattogram, have suffered severe waterlogging this year following]]></description>
             <link>https://observerbd.com/news/575107</link>
             <guid isPermaLink="true">https://observerbd.com/news/575107</guid>
-            <pubDate>Sun, 03 May 2026 20:37:19 GMT</pubDate>
+            <pubDate>Sun, 03 May 2026 21:36:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Security concerns grow on DU campus]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/575108</link>
             <guid isPermaLink="true">https://observerbd.com/news/575108</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 03 May 2026 20:37:19 GMT</pubDate>
+            <pubDate>Sun, 03 May 2026 21:36:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
