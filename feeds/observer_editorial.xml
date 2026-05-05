@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial]]></title>
-        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
+        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 20:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 22:01:06 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 20:57:20 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 22:01:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What matters for Dhaka after BJP's landslide victory in West Bengal?]]></title>
-            <description><![CDATA[The landslide victory of the Bharatiya Janata Party (BJP) in the West Bengal assembly elections]]></description>
-            <link>https://observerbd.com/news/575342</link>
-            <guid isPermaLink="true">https://observerbd.com/news/575342</guid>
-            <pubDate>Tue, 05 May 2026 20:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Miyawaki method for a green Dhaka]]></title>
-            <description><![CDATA[Dear Sir,To realize the government's 'National Green Mission' and vision of a 'Clean and Green]]></description>
-            <link>https://observerbd.com/news/575343</link>
-            <guid isPermaLink="true">https://observerbd.com/news/575343</guid>
-            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Tue, 05 May 2026 20:57:20 GMT</pubDate>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://observerbd.com</link>
+            <guid isPermaLink="true">https://observerbd.com</guid>
+            <pubDate>Tue, 05 May 2026 22:01:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
