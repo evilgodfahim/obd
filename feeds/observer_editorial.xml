@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 11:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 13:50:38 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 11:04:32 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 13:50:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Measles scourge worsens]]></title>
             <description><![CDATA[The latest figures from the Directorate General of Health Services (DGHS) paint a deeply troubling]]></description>
             <link>https://observerbd.com/news/575421</link>
             <guid isPermaLink="true">https://observerbd.com/news/575421</guid>
-            <pubDate>Thu, 07 May 2026 11:04:32 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 13:50:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Desist from harassing medical reps]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/575422</link>
             <guid isPermaLink="true">https://observerbd.com/news/575422</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 11:04:32 GMT</pubDate>
+            <pubDate>Thu, 07 May 2026 13:50:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
