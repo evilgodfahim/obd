@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 21:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 23:00:31 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 21:21:11 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 23:00:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why little is being done to improve Dhaka's air pollution]]></title>
             <description><![CDATA[This is not only worrisome but also fatal, as Dhaka has become an almost unlivable]]></description>
             <link>https://observerbd.com/news/576290</link>
             <guid isPermaLink="true">https://observerbd.com/news/576290</guid>
-            <pubDate>Wed, 13 May 2026 21:21:11 GMT</pubDate>
+            <pubDate>Wed, 13 May 2026 23:00:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ease Eid journey]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/576291</link>
             <guid isPermaLink="true">https://observerbd.com/news/576291</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Wed, 13 May 2026 21:21:11 GMT</pubDate>
+            <pubDate>Wed, 13 May 2026 23:00:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
