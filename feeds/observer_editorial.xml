@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 22:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 23:56:20 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 22:15:41 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 23:56:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Power prices and public burden]]></title>
             <description><![CDATA[Bangladesh cannot afford another electricity tariff hike without first confronting the deep structural failures within]]></description>
             <link>https://observerbd.com/news/577205</link>
             <guid isPermaLink="true">https://observerbd.com/news/577205</guid>
-            <pubDate>Thu, 21 May 2026 22:15:41 GMT</pubDate>
+            <pubDate>Thu, 21 May 2026 23:56:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Food adulteration: A silent pandemic]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/577206</link>
             <guid isPermaLink="true">https://observerbd.com/news/577206</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Thu, 21 May 2026 22:15:41 GMT</pubDate>
+            <pubDate>Thu, 21 May 2026 23:56:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
