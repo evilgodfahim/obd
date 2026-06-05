@@ -4,16 +4,24 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 23:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 02:46:45 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 23:04:08 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 02:46:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[No articles found]]></title>
-            <description><![CDATA[RSS feed could not scrape any articles.]]></description>
-            <link>https://observerbd.com/menu/199</link>
-            <guid isPermaLink="true">https://observerbd.com/menu/199</guid>
-            <pubDate>Thu, 04 Jun 2026 23:04:08 GMT</pubDate>
+            <title><![CDATA[Power tariff hike deepens public burden]]></title>
+            <description><![CDATA[The Bangladesh Energy Regulatory Commission's (BERC) decision to raise electricity tariffs by an average of]]></description>
+            <link>https://observerbd.com/news/578247</link>
+            <guid isPermaLink="true">https://observerbd.com/news/578247</guid>
+            <pubDate>Fri, 05 Jun 2026 02:46:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Urgent repair needed for Roufabad road]]></title>
+            <description><![CDATA[Dear Sir,The main road in Roufabad, Baizid Bostami, Chattogram (Ward No. 7) has long remained]]></description>
+            <link>https://observerbd.com/news/578248</link>
+            <guid isPermaLink="true">https://observerbd.com/news/578248</guid>
+            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
+            <pubDate>Fri, 05 Jun 2026 02:46:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
