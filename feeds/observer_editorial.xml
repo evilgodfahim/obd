@@ -4,16 +4,24 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 19:59:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 21:50:15 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2026 19:59:37 GMT</pubDate>
+        <pubDate>Tue, 09 Jun 2026 21:50:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[No articles found]]></title>
-            <description><![CDATA[RSS feed could not scrape any articles.]]></description>
-            <link>https://observerbd.com/menu/199</link>
-            <guid isPermaLink="true">https://observerbd.com/menu/199</guid>
-            <pubDate>Tue, 09 Jun 2026 19:59:37 GMT</pubDate>
+            <title><![CDATA[Dhaka eyes Russian market for manpower deployment]]></title>
+            <description><![CDATA[Bangladesh’s relations with Russia are set to grow further, especially in the area of manpower]]></description>
+            <link>https://observerbd.com/news/578856</link>
+            <guid isPermaLink="true">https://observerbd.com/news/578856</guid>
+            <pubDate>Tue, 09 Jun 2026 21:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tourists to Tanguar Haor should be capped]]></title>
+            <description><![CDATA[Dear Sir,Uncontrolled tourism has affected Tanguar Haor, one of Bangladesh’s most important wetlands and a]]></description>
+            <link>https://observerbd.com/news/578857</link>
+            <guid isPermaLink="true">https://observerbd.com/news/578857</guid>
+            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 21:50:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
