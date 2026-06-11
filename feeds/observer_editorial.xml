@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 23:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 02:56:17 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Jun 2026 23:21:06 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 02:56:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[All eyes glued to World Cup football opening tonight]]></title>
             <description><![CDATA[All eyes are now set on the opening of the FIFA World Cup, the greatest]]></description>
             <link>https://observerbd.com/news/579029</link>
             <guid isPermaLink="true">https://observerbd.com/news/579029</guid>
-            <pubDate>Wed, 10 Jun 2026 23:21:06 GMT</pubDate>
+            <pubDate>Thu, 11 Jun 2026 02:56:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ensure female students’ safety]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/579030</link>
             <guid isPermaLink="true">https://observerbd.com/news/579030</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 23:21:06 GMT</pubDate>
+            <pubDate>Thu, 11 Jun 2026 02:56:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
