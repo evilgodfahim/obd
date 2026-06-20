@@ -4,16 +4,16 @@
         <description><![CDATA[Latest opinion pieces from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 19:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 21:08:48 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/246" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jun 2026 19:14:49 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 21:08:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[No articles found]]></title>
             <description><![CDATA[RSS feed could not scrape any articles.]]></description>
             <link>https://observerbd.com/menu/246</link>
             <guid isPermaLink="true">https://observerbd.com/menu/246</guid>
-            <pubDate>Sat, 20 Jun 2026 19:14:49 GMT</pubDate>
+            <pubDate>Sat, 20 Jun 2026 21:08:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
