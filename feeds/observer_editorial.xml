@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 13:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 15:47:40 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 13:54:05 GMT</pubDate>
+        <pubDate>Sun, 21 Jun 2026 15:47:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Rice prices rise despite tax cuts, consumers left behind]]></title>
             <description><![CDATA[The recent increase in rice prices despite the government's decision to reduce taxes on nearly]]></description>
             <link>https://observerbd.com/news/580214</link>
             <guid isPermaLink="true">https://observerbd.com/news/580214</guid>
-            <pubDate>Sun, 21 Jun 2026 13:54:05 GMT</pubDate>
+            <pubDate>Sun, 21 Jun 2026 15:47:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noise pollution the silent threat to a healthy life]]></title>
@@ -21,7 +21,7 @@
             <link>https://observerbd.com/news/580215</link>
             <guid isPermaLink="true">https://observerbd.com/news/580215</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 21 Jun 2026 13:54:05 GMT</pubDate>
+            <pubDate>Sun, 21 Jun 2026 15:47:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
