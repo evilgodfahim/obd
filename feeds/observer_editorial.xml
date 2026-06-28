@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 15:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 17:02:08 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jun 2026 15:14:02 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 17:02:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Teesta project may see the light]]></title>
             <description><![CDATA[The long-awaited Teesta River Comprehensive Management and Restoration Project is likely to see the light]]></description>
             <link>https://observerbd.com/news/581108</link>
             <guid isPermaLink="true">https://observerbd.com/news/581108</guid>
-            <pubDate>Sun, 28 Jun 2026 15:14:02 GMT</pubDate>
+            <pubDate>Sun, 28 Jun 2026 17:02:08 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -22,7 +22,7 @@
             <link>https://observerbd.com/news/581109</link>
             <guid isPermaLink="true">https://observerbd.com/news/581109</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 28 Jun 2026 15:14:02 GMT</pubDate>
+            <pubDate>Sun, 28 Jun 2026 17:02:08 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
