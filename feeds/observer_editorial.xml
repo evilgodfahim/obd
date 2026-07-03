@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 06:56:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 09:53:42 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 06:56:32 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 09:53:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[PM’s circular vision for a more liveable Dhaka]]></title>
             <description><![CDATA[Dhaka's unrelenting traffic congestion has long been more than just an inconvenience , and in]]></description>
             <link>https://observerbd.com/news/581730</link>
             <guid isPermaLink="true">https://observerbd.com/news/581730</guid>
-            <pubDate>Fri, 03 Jul 2026 06:56:32 GMT</pubDate>
+            <pubDate>Fri, 03 Jul 2026 09:53:42 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -22,7 +22,7 @@
             <link>https://observerbd.com/news/581731</link>
             <guid isPermaLink="true">https://observerbd.com/news/581731</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Fri, 03 Jul 2026 06:56:32 GMT</pubDate>
+            <pubDate>Fri, 03 Jul 2026 09:53:42 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
