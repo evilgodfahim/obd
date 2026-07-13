@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 13:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 16:24:54 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 13:14:24 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 16:24:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Floods demand robust preparedness]]></title>
             <description><![CDATA[Widespread flooding, landslides and water-logging- continuing to batter southeastern Bangladesh over the past several days]]></description>
             <link>https://observerbd.com/news/583071</link>
             <guid isPermaLink="true">https://observerbd.com/news/583071</guid>
-            <pubDate>Mon, 13 Jul 2026 13:14:24 GMT</pubDate>
+            <pubDate>Mon, 13 Jul 2026 16:24:54 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -22,7 +22,7 @@
             <link>https://observerbd.com/news/583072</link>
             <guid isPermaLink="true">https://observerbd.com/news/583072</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Mon, 13 Jul 2026 13:14:24 GMT</pubDate>
+            <pubDate>Mon, 13 Jul 2026 16:24:54 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
