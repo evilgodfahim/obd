@@ -1,19 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Opinion (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Observer – Opinion]]></title>
+        <description><![CDATA[Latest opinion pieces from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 23:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 02:05:56 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/246" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 23:46:08 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://observerbd.com</link>
-            <guid isPermaLink="true">https://observerbd.com</guid>
-            <pubDate>Sun, 12 Jul 2026 23:46:08 GMT</pubDate>
+            <title><![CDATA[Viqarunnisa student Alif Abina Parag secures 'Talentpool Scholarship']]></title>
+            <description><![CDATA[Alif Abina Parag, a student of Viqarunnisa Noon School & College, Bashundhara Branch, has secured]]></description>
+            <link>https://observerbd.com/news/583128</link>
+            <guid isPermaLink="true">https://observerbd.com/news/583128</guid>
+            <dc:creator><![CDATA[Observer Online Report]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/07/12/ob_77.1783874172_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan Garden City without power for 3 days]]></title>
+            <description><![CDATA[Thousands of residents of Japan Garden City, an upscale residential complex in Mohammadpur, Dhaka, have]]></description>
+            <link>https://observerbd.com/news/582682</link>
+            <guid isPermaLink="true">https://observerbd.com/news/582682</guid>
+            <dc:creator><![CDATA[Observer Online Report]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/07/09/ob_77.1783612998_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Football, shooting could unlock Bangladesh’s next sports economy]]></title>
+            <description><![CDATA[Bangladesh’s sports economy needs a broader vision beyond cricket, with football positioned as the next]]></description>
+            <link>https://observerbd.com/news/582654</link>
+            <guid isPermaLink="true">https://observerbd.com/news/582654</guid>
+            <dc:creator><![CDATA[Observer Online Report]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/07/09/ob_77.1783606628_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Safe Journeys Demand Shared Responsibility]]></title>
+            <description><![CDATA[Every festive season, millions of Bangladeshis embark on a deeply rooted ritual: traveling home to]]></description>
+            <link>https://observerbd.com/news/582295</link>
+            <guid isPermaLink="true">https://observerbd.com/news/582295</guid>
+            <dc:creator><![CDATA[Mohammad Zahidul Islam Mian]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/07/06/ob_72.1783355222_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A passport renewal journey and the future of digital government in Bangladesh]]></title>
+            <description><![CDATA[On a humid morning in Dhaka, a young migrant worker stood outside a passport office]]></description>
+            <link>https://observerbd.com/news/581451</link>
+            <guid isPermaLink="true">https://observerbd.com/news/581451</guid>
+            <dc:creator><![CDATA[Nuzhat Tabassum Turee]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arabic language teaching in Bangladesh needs a reality check: Formal (Al-Fusha) or dialectal (Al-Ammiyah)?]]></title>
+            <description><![CDATA[Arabic language proficiency is one of the important factors for getting job in the middle]]></description>
+            <link>https://observerbd.com/news/580956</link>
+            <guid isPermaLink="true">https://observerbd.com/news/580956</guid>
+            <dc:creator><![CDATA[M F Bari]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Growing Elderly Population, Growing Crisis: It Is Time to Increase the Budget for Older Persons’ Welfare]]></title>
+            <description><![CDATA[Population ageing is a universal challenge faced by countries across the world. In developed nations,]]></description>
+            <link>https://observerbd.com/news/580575</link>
+            <guid isPermaLink="true">https://observerbd.com/news/580575</guid>
+            <dc:creator><![CDATA[By Dr. Afroja Parvin]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How AI is reshaping global newsrooms: What Bangladesh journalists can do]]></title>
+            <description><![CDATA[Global mainstream media organizations like Associated Press, BBC, Wall Street Journal are increasingly integrating artificial]]></description>
+            <link>https://observerbd.com/news/580573</link>
+            <guid isPermaLink="true">https://observerbd.com/news/580573</guid>
+            <dc:creator><![CDATA[Ishtiaque Foysol]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/06/23/ob_72.1782200787_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Enemy Within: Are substandard devices manipulating you?]]></title>
+            <description><![CDATA[In Bangladesh, like other parts around the globe, we use many substandard electronic consumer products]]></description>
+            <link>https://observerbd.com/news/579923</link>
+            <guid isPermaLink="true">https://observerbd.com/news/579923</guid>
+            <dc:creator><![CDATA[Ishtiaque Foysol]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/06/18/ob_72.1781771543_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[International day for countering hate speech: a commitment to harmony, peace and humanity]]></title>
+            <description><![CDATA[My mother often used to tell me, “Be like the earth, humble and tolerant. Never]]></description>
+            <link>https://observerbd.com/news/579819</link>
+            <guid isPermaLink="true">https://observerbd.com/news/579819</guid>
+            <dc:creator><![CDATA[Dr. Afroja Parvin]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Give blood now-Bangladesh cannot wait any longer]]></title>
+            <description><![CDATA[Bangladesh needs blood. Not eventually. Not someday. Today- right now-hospitals across this country are treating]]></description>
+            <link>https://observerbd.com/news/579776</link>
+            <guid isPermaLink="true">https://observerbd.com/news/579776</guid>
+            <dc:creator><![CDATA[Prof. Dr. Kazi Nawshad Hossain]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/06/17/ob_34.1781663126_th.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond the Classroom: Experiencing History through Political Lenses]]></title>
+            <description><![CDATA[Now a days, the traditional classrooms often fail to capture the multifaceted, living essence of]]></description>
+            <link>https://observerbd.com/news/579677</link>
+            <guid isPermaLink="true">https://observerbd.com/news/579677</guid>
+            <dc:creator><![CDATA[Mohammad Asif Chowdhury]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/06/16/ob_72.1781609799_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BALANCING AI AUTONOMY AND HUMAN-CENTRIC COMMAND: A NEW PARADIGM FOR NATIONAL RESILIENCE AND BANGLADESH ARMY]]></title>
+            <description><![CDATA[Since the induction of gunpowder, the warfare patterns have shifted to new dimensions. ‘Algorithmic Warfare’]]></description>
+            <link>https://observerbd.com/news/579053</link>
+            <guid isPermaLink="true">https://observerbd.com/news/579053</guid>
+            <dc:creator><![CDATA[Colonel Abdul Khaleque Mohammad Kamruzzaman,psc]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/06/11/ob_34.1781154296_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Trump's China visit failed: Loud words, quiet outcomes]]></title>
+            <description><![CDATA[After nearly nine years as President of the United States, Donald Trump paid an official]]></description>
+            <link>https://observerbd.com/news/578707</link>
+            <guid isPermaLink="true">https://observerbd.com/news/578707</guid>
+            <dc:creator><![CDATA[Tania Khatun]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why should Bangladesh suffer for climate crimes of others?]]></title>
+            <description><![CDATA[My father used to say, “The country seems to be changing slowly. Compassion among people]]></description>
+            <link>https://observerbd.com/news/578381</link>
+            <guid isPermaLink="true">https://observerbd.com/news/578381</guid>
+            <dc:creator><![CDATA[Afroja Parvin]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drumming to chill, drumming to end stereotypes!]]></title>
+            <description><![CDATA[The video of a young girl in hijab drumming with a youth band has become]]></description>
+            <link>https://observerbd.com/news/578249</link>
+            <guid isPermaLink="true">https://observerbd.com/news/578249</guid>
+            <dc:creator><![CDATA[Towheed Feroze]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 02:05:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/06/04/ob_70.1780583230_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
