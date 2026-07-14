@@ -4,25 +4,25 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 17:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 19:08:40 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jul 2026 17:07:02 GMT</pubDate>
+        <pubDate>Tue, 14 Jul 2026 19:08:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[BNP charts a promising path for Bangladesh]]></title>
-            <description><![CDATA[We wholeheartedly welcome the latest decisions of the BNP National Standing Committee with optimism as]]></description>
-            <link>https://observerbd.com/news/583226</link>
-            <guid isPermaLink="true">https://observerbd.com/news/583226</guid>
-            <pubDate>Tue, 14 Jul 2026 17:07:02 GMT</pubDate>
+            <title><![CDATA[Brace for post-flood crisis]]></title>
+            <description><![CDATA[The flood situation is likely to worsen further in some districts, while floodwaters in other]]></description>
+            <link>https://observerbd.com/news/583399</link>
+            <guid isPermaLink="true">https://observerbd.com/news/583399</guid>
+            <pubDate>Tue, 14 Jul 2026 19:08:40 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Floods wreak havoc in Chattogram]]></title>
-            <description><![CDATA[Dear Sir,Flooding has become a recurring problem in Bangladesh during the monsoon, largely due to]]></description>
-            <link>https://observerbd.com/news/583227</link>
-            <guid isPermaLink="true">https://observerbd.com/news/583227</guid>
+            <title><![CDATA[Limit job span to 15 years]]></title>
+            <description><![CDATA[Dear Sir,Educated unemployment in our country has reached an alarming level, demanding bold and timely]]></description>
+            <link>https://observerbd.com/news/583400</link>
+            <guid isPermaLink="true">https://observerbd.com/news/583400</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Tue, 14 Jul 2026 17:07:02 GMT</pubDate>
+            <pubDate>Tue, 14 Jul 2026 19:08:40 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
