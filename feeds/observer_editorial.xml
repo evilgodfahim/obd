@@ -4,25 +4,25 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 17:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 19:00:30 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jul 2026 17:10:04 GMT</pubDate>
+        <pubDate>Wed, 15 Jul 2026 19:00:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Brace for post-flood crisis]]></title>
-            <description><![CDATA[The flood situation is likely to worsen further in some districts, while floodwaters in other]]></description>
-            <link>https://observerbd.com/news/583399</link>
-            <guid isPermaLink="true">https://observerbd.com/news/583399</guid>
-            <pubDate>Wed, 15 Jul 2026 17:10:04 GMT</pubDate>
+            <title><![CDATA[As the sluice gates stay shut, Dhaka gets deluged]]></title>
+            <description><![CDATA[Every monsoon, Dhaka dwellers keep asking the same question: Why does Dhaka continue to drown]]></description>
+            <link>https://observerbd.com/news/583520</link>
+            <guid isPermaLink="true">https://observerbd.com/news/583520</guid>
+            <pubDate>Wed, 15 Jul 2026 19:00:30 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Limit job span to 15 years]]></title>
-            <description><![CDATA[Dear Sir,Educated unemployment in our country has reached an alarming level, demanding bold and timely]]></description>
-            <link>https://observerbd.com/news/583400</link>
-            <guid isPermaLink="true">https://observerbd.com/news/583400</guid>
+            <title><![CDATA[Floods take heavy toll on HSC candidates]]></title>
+            <description><![CDATA[Dear Sir,Continuous heavy rainfall and severe flooding have disrupted normal life across Bangladesh, with HSC]]></description>
+            <link>https://observerbd.com/news/583521</link>
+            <guid isPermaLink="true">https://observerbd.com/news/583521</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Wed, 15 Jul 2026 17:10:04 GMT</pubDate>
+            <pubDate>Wed, 15 Jul 2026 19:00:30 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
