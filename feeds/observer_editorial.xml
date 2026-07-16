@@ -4,25 +4,25 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 16:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 18:00:22 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 16:12:17 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 18:00:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[As the sluice gates stay shut, Dhaka gets deluged]]></title>
-            <description><![CDATA[Every monsoon, Dhaka dwellers keep asking the same question: Why does Dhaka continue to drown]]></description>
-            <link>https://observerbd.com/news/583520</link>
-            <guid isPermaLink="true">https://observerbd.com/news/583520</guid>
-            <pubDate>Thu, 16 Jul 2026 16:12:17 GMT</pubDate>
+            <title><![CDATA[PM must now convert zero tolerance into zero excuses]]></title>
+            <description><![CDATA[Prime Minister Tarique Rahman's pledge of “zero tolerance” towards corruption and extremism is both timely]]></description>
+            <link>https://observerbd.com/news/583662</link>
+            <guid isPermaLink="true">https://observerbd.com/news/583662</guid>
+            <pubDate>Thu, 16 Jul 2026 18:00:22 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Floods take heavy toll on HSC candidates]]></title>
-            <description><![CDATA[Dear Sir,Continuous heavy rainfall and severe flooding have disrupted normal life across Bangladesh, with HSC]]></description>
-            <link>https://observerbd.com/news/583521</link>
-            <guid isPermaLink="true">https://observerbd.com/news/583521</guid>
+            <title><![CDATA[Stand by the flood-hit people]]></title>
+            <description><![CDATA[Dear Sir,The devastating floods in south-eastern Bangladesh, including Chattogram, have affected more than one million]]></description>
+            <link>https://observerbd.com/news/583663</link>
+            <guid isPermaLink="true">https://observerbd.com/news/583663</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 16:12:17 GMT</pubDate>
+            <pubDate>Thu, 16 Jul 2026 18:00:22 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
