@@ -4,16 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 19:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 21:00:06 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 19:08:46 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 21:00:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[No articles found]]></title>
-            <description><![CDATA[RSS feed could not scrape any articles.]]></description>
-            <link>https://observerbd.com/menu/199</link>
-            <guid isPermaLink="true">https://observerbd.com/menu/199</guid>
-            <pubDate>Tue, 21 Jul 2026 19:08:46 GMT</pubDate>
+            <title><![CDATA[Death on Wheels: How Unfit Vehicles Continue to Kill]]></title>
+            <description><![CDATA[A person who leaves home in the morning has no guarantee of returning safely in]]></description>
+            <link>https://observerbd.com/news/584397</link>
+            <guid isPermaLink="true">https://observerbd.com/news/584397</guid>
+            <dc:creator><![CDATA[Sonnet Dev]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 21:00:06 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/07/22/ob_1784664284_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Road to Green Bangladesh Runs Through Environmental Protection]]></title>
+            <description><![CDATA[Is it possible to leave behind a Bangladesh that is “fit for its future generations?”]]></description>
+            <link>https://observerbd.com/news/584398</link>
+            <guid isPermaLink="true">https://observerbd.com/news/584398</guid>
+            <dc:creator><![CDATA[Md Ashikur Rahman]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 21:00:06 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/07/22/ob_1784664333_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A New Beginning for Fair Overseas Recruitment]]></title>
+            <description><![CDATA[Government's decision to revoke licences of 49 recruiting agencies allegedly involved in a powerful labour]]></description>
+            <link>https://observerbd.com/news/584399</link>
+            <guid isPermaLink="true">https://observerbd.com/news/584399</guid>
+            <pubDate>Tue, 21 Jul 2026 21:00:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nationalised colleges require urgent reform]]></title>
+            <description><![CDATA[Dear Sir,Education is the foundation of national development, and improving the quality of college education]]></description>
+            <link>https://observerbd.com/news/584400</link>
+            <guid isPermaLink="true">https://observerbd.com/news/584400</guid>
+            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 21:00:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
