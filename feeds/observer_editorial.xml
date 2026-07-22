@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 17:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 19:02:30 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jul 2026 17:10:04 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 19:02:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Death on Wheels: How Unfit Vehicles Continue to Kill]]></title>
-            <description><![CDATA[A person who leaves home in the morning has no guarantee of returning safely in]]></description>
-            <link>https://observerbd.com/news/584397</link>
-            <guid isPermaLink="true">https://observerbd.com/news/584397</guid>
-            <dc:creator><![CDATA[Sonnet Dev]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 17:10:04 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/07/22/ob_1784664284_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Road to Green Bangladesh Runs Through Environmental Protection]]></title>
-            <description><![CDATA[Is it possible to leave behind a Bangladesh that is “fit for its future generations?”]]></description>
-            <link>https://observerbd.com/news/584398</link>
-            <guid isPermaLink="true">https://observerbd.com/news/584398</guid>
-            <dc:creator><![CDATA[Md Ashikur Rahman]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 17:10:04 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/07/22/ob_1784664333_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A New Beginning for Fair Overseas Recruitment]]></title>
-            <description><![CDATA[Government's decision to revoke licences of 49 recruiting agencies allegedly involved in a powerful labour]]></description>
-            <link>https://observerbd.com/news/584399</link>
-            <guid isPermaLink="true">https://observerbd.com/news/584399</guid>
-            <pubDate>Wed, 22 Jul 2026 17:10:04 GMT</pubDate>
+            <title><![CDATA[Promotions without Credibility Serve None]]></title>
+            <description><![CDATA[A civil service functions best when its officers believe that merit, performance and rule of]]></description>
+            <link>https://observerbd.com/news/584515</link>
+            <guid isPermaLink="true">https://observerbd.com/news/584515</guid>
+            <pubDate>Wed, 22 Jul 2026 19:02:30 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Nationalised colleges require urgent reform]]></title>
-            <description><![CDATA[Dear Sir,Education is the foundation of national development, and improving the quality of college education]]></description>
-            <link>https://observerbd.com/news/584400</link>
-            <guid isPermaLink="true">https://observerbd.com/news/584400</guid>
+            <title><![CDATA[Protect children from the pain of divorce]]></title>
+            <description><![CDATA[Dear Sir,Marriage is a sacred bond. Unfortunately, family conflicts and misunderstandings often lead to divorce,]]></description>
+            <link>https://observerbd.com/news/584516</link>
+            <guid isPermaLink="true">https://observerbd.com/news/584516</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Wed, 22 Jul 2026 17:10:04 GMT</pubDate>
+            <pubDate>Wed, 22 Jul 2026 19:02:30 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Our Shared Responsibilities in The Post-flood Scenario]]></title>
+            <description><![CDATA[The water is receding, but the real crisis in Bangladesh is just beginning. When floodwaters]]></description>
+            <link>https://observerbd.com/news/584517</link>
+            <guid isPermaLink="true">https://observerbd.com/news/584517</guid>
+            <dc:creator><![CDATA[Prof Dr Kazi Nawshad Hossain]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 19:02:30 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/07/22/ob_1784733099_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spend Smarter, Not Less: Bangladesh’s Budget Imperative]]></title>
+            <description><![CDATA[Bangladesh is not running out of money anytime soon, but it is running out of]]></description>
+            <link>https://observerbd.com/news/584518</link>
+            <guid isPermaLink="true">https://observerbd.com/news/584518</guid>
+            <dc:creator><![CDATA[Mohammad Musudur Rahman]]></dc:creator>
+            <pubDate>Wed, 22 Jul 2026 19:02:30 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/07/22/ob_1784733057_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
