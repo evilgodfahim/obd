@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jul 2026 17:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 19:05:11 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jul 2026 17:56:58 GMT</pubDate>
+        <pubDate>Sun, 26 Jul 2026 19:05:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Making Safe Water a Right, Not a Luxury]]></title>
-            <description><![CDATA[We warmly welcome Dhaka WASA’s initiative to provide affordable, safe drinking water to more than]]></description>
-            <link>https://observerbd.com/news/584974</link>
-            <guid isPermaLink="true">https://observerbd.com/news/584974</guid>
-            <pubDate>Sun, 26 Jul 2026 17:56:58 GMT</pubDate>
+            <title><![CDATA[A Comprehensive Health Sector Needs Diverse Medical Systems]]></title>
+            <description><![CDATA[According to a report from the Ministry of Health, there is only one registered physician]]></description>
+            <link>https://observerbd.com/news/585147</link>
+            <guid isPermaLink="true">https://observerbd.com/news/585147</guid>
+            <dc:creator><![CDATA[Dr Samir Kumar Saha]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 19:05:11 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Prevent stone-throwing at moving trains]]></title>
-            <description><![CDATA[Dear Sir,Railways provide safe and convenient transportation across the country, yet this valuable service is]]></description>
-            <link>https://observerbd.com/news/584975</link>
-            <guid isPermaLink="true">https://observerbd.com/news/584975</guid>
+            <title><![CDATA[How CJP Protests Became a Test for India’s Democracy]]></title>
+            <description><![CDATA[What began as anger over alleged irregularities in India’s national medical entrance examination has evolved]]></description>
+            <link>https://observerbd.com/news/585148</link>
+            <guid isPermaLink="true">https://observerbd.com/news/585148</guid>
+            <dc:creator><![CDATA[MD RISHED AHMED]]></dc:creator>
+            <pubDate>Sun, 26 Jul 2026 19:05:11 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Secure Ctg Port Before Piracy Takes Root]]></title>
+            <description><![CDATA[Growing incidence of piracy and theft at Chattogram Port’s outer anchorage is a matter of]]></description>
+            <link>https://observerbd.com/news/585149</link>
+            <guid isPermaLink="true">https://observerbd.com/news/585149</guid>
+            <pubDate>Sun, 26 Jul 2026 19:05:11 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Safe Is Dhaka WASA Water?]]></title>
+            <description><![CDATA[Dear Sir,The majority of Dhaka’s residents rely on WASA water for drinking and everyday household]]></description>
+            <link>https://observerbd.com/news/585150</link>
+            <guid isPermaLink="true">https://observerbd.com/news/585150</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 26 Jul 2026 17:56:58 GMT</pubDate>
+            <pubDate>Sun, 26 Jul 2026 19:05:11 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[IED at Motijheel Metro: A Warning That Must Not Be Ignored]]></title>
-            <description><![CDATA[On a seemingly ordinary Friday, July 24, the heart of Dhaka’s modern transit network became]]></description>
-            <link>https://observerbd.com/news/584976</link>
-            <guid isPermaLink="true">https://observerbd.com/news/584976</guid>
-            <dc:creator><![CDATA[Emran Emon]]></dc:creator>
-            <pubDate>Sun, 26 Jul 2026 17:56:58 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/07/25/ob_1784992614_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Misconceptions about Rice Farming and Consumption]]></title>
-            <description><![CDATA[Rice is the cornerstone of Bangladesh’s food security, economy, and cultural identity. Yet despite its]]></description>
-            <link>https://observerbd.com/news/584977</link>
-            <guid isPermaLink="true">https://observerbd.com/news/584977</guid>
-            <dc:creator><![CDATA[Dr M Abdul Momin]]></dc:creator>
-            <pubDate>Sun, 26 Jul 2026 17:56:58 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/07/25/ob_1784992575_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
