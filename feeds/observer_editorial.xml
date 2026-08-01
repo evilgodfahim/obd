@@ -1,47 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial]]></title>
-        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
+        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 23:56:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 02:13:04 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 23:56:05 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 02:13:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[A Freight Bill Exposing Growing vulnerability of Our Energy Supply]]></title>
-            <description><![CDATA[A report published in this newspaper today revealed that Bangladesh Petroleum Corporation (BPC) may have]]></description>
-            <link>https://observerbd.com/news/585847</link>
-            <guid isPermaLink="true">https://observerbd.com/news/585847</guid>
-            <pubDate>Fri, 31 Jul 2026 23:56:05 GMT</pubDate>
-            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Every Child Deserves Safety]]></title>
-            <description><![CDATA[Dear Sir,The growing violence against children has become one of the gravest challenges facing our]]></description>
-            <link>https://observerbd.com/news/585848</link>
-            <guid isPermaLink="true">https://observerbd.com/news/585848</guid>
-            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 23:56:05 GMT</pubDate>
-            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh must Quick Adapt to Electric Vehicles]]></title>
-            <description><![CDATA[Bangladesh’s transportation sector is approaching a turning point. The country can either continue its overwhelming]]></description>
-            <link>https://observerbd.com/news/585849</link>
-            <guid isPermaLink="true">https://observerbd.com/news/585849</guid>
-            <dc:creator><![CDATA[MIR MOSHARREF HOSSAIN PAKBIR]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 23:56:05 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/07/31/ob_1785513977_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What Must Be Done to Evade Future Food Security Risks]]></title>
-            <description><![CDATA[This year, heavy rainfall, flash floods from upstream hills, and repeated flooding have severely affected]]></description>
-            <link>https://observerbd.com/news/585850</link>
-            <guid isPermaLink="true">https://observerbd.com/news/585850</guid>
-            <dc:creator><![CDATA[Dr M Abdul Momin]]></dc:creator>
-            <pubDate>Fri, 31 Jul 2026 23:56:05 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/07/31/ob_1785513942_th.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://observerbd.com</link>
+            <guid isPermaLink="true">https://observerbd.com</guid>
+            <pubDate>Sat, 01 Aug 2026 02:13:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
