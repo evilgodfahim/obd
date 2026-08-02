@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 17:57:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 19:04:41 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 17:57:14 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 19:04:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Do Not Let Gas Crisis Cripple Our Garment Industry]]></title>
-            <description><![CDATA[Bangladesh’s economic success story has long been woven with the threads of its garment industry.]]></description>
-            <link>https://observerbd.com/news/585968</link>
-            <guid isPermaLink="true">https://observerbd.com/news/585968</guid>
-            <pubDate>Sun, 02 Aug 2026 17:57:14 GMT</pubDate>
+            <title><![CDATA[Dhaka’s 'Red Sea Reckoning']]></title>
+            <description><![CDATA[The Red Sea and the Bab al-Mandeb strait carry over 90 per cent of Bangladesh’s]]></description>
+            <link>https://observerbd.com/news/586157</link>
+            <guid isPermaLink="true">https://observerbd.com/news/586157</guid>
+            <dc:creator><![CDATA[Rajeev Ahmed]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 19:04:41 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Crack Down on Illegal MFS Agents]]></title>
-            <description><![CDATA[Dear Sir,Mobile Financial Services (MFS) have become an indispensable part of the country’s financial system.]]></description>
-            <link>https://observerbd.com/news/585969</link>
-            <guid isPermaLink="true">https://observerbd.com/news/585969</guid>
+            <title><![CDATA[When Unethical Publishing Undermines the Search for Truths]]></title>
+            <description><![CDATA[The University Grants Commission should establish a comprehensive national framework on research integrity applicable to]]></description>
+            <link>https://observerbd.com/news/586158</link>
+            <guid isPermaLink="true">https://observerbd.com/news/586158</guid>
+            <dc:creator><![CDATA[Musharraf Tansen]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 19:04:41 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A New Momentum in US-Bangladesh ties]]></title>
+            <description><![CDATA[We warmly welcome the renewed momentum in US-Bangladesh bilateral ties, marked by the recent high-level]]></description>
+            <link>https://observerbd.com/news/586159</link>
+            <guid isPermaLink="true">https://observerbd.com/news/586159</guid>
+            <pubDate>Sun, 02 Aug 2026 19:04:41 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cleanliness Is a Shared Responsibility]]></title>
+            <description><![CDATA[Dear Sir,A clean environment is not only the responsibility of the government and sanitation workers]]></description>
+            <link>https://observerbd.com/news/586160</link>
+            <guid isPermaLink="true">https://observerbd.com/news/586160</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 17:57:14 GMT</pubDate>
+            <pubDate>Sun, 02 Aug 2026 19:04:41 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bribery: A Systemic Threat to Good Governance]]></title>
-            <description><![CDATA[Bribery remains one of the greatest obstacles to good governance, justice, and sustainable development in]]></description>
-            <link>https://observerbd.com/news/585970</link>
-            <guid isPermaLink="true">https://observerbd.com/news/585970</guid>
-            <dc:creator><![CDATA[Shahiduzzaman]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 17:57:14 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/08/01/ob_1785595862_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Securing Bangladesh’s Maritime Future]]></title>
-            <description><![CDATA[Bangladesh’s maritime future relies not merely on a visionary outlook, but on robust governance architecture]]></description>
-            <link>https://observerbd.com/news/585971</link>
-            <guid isPermaLink="true">https://observerbd.com/news/585971</guid>
-            <dc:creator><![CDATA[Md Imdadul Haque Sohag]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 17:57:14 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/08/01/ob_1785595805_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
