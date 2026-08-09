@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 16:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 17:24:40 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 16:25:53 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 17:24:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Stop Road Deaths, Ensure Enforcement of Traffic Laws]]></title>
-            <description><![CDATA[The deaths of 16 people in two separate highway accidents in Sylhet and Bogura within]]></description>
-            <link>https://observerbd.com/news/587033</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587033</guid>
-            <pubDate>Sun, 09 Aug 2026 16:25:53 GMT</pubDate>
+            <title><![CDATA[De Facto Power in Rakhine and Repatriation of Rohingyas]]></title>
+            <description><![CDATA[Myanmar has endured one of the world’s longest-running civil wars, with a dozen ethnic armed]]></description>
+            <link>https://observerbd.com/news/587209</link>
+            <guid isPermaLink="true">https://observerbd.com/news/587209</guid>
+            <dc:creator><![CDATA[Md Mahiduzzaman]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 17:24:40 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/08/09/ob_1786289113_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reviving Private Credit: The Next Step towards Stronger Growth]]></title>
+            <description><![CDATA[The real challenge now is confidence. Many entrepreneurs are delaying investment decisions. High lending rates]]></description>
+            <link>https://observerbd.com/news/587210</link>
+            <guid isPermaLink="true">https://observerbd.com/news/587210</guid>
+            <dc:creator><![CDATA[Md Abul Hasan Mia]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 17:24:40 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/08/09/ob_1786289165_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Resetting Dhaka-Delhi Relations on Equal Terms]]></title>
+            <description><![CDATA[It is encouraging to note that Bangladesh-India relations is now well poised for a fresh]]></description>
+            <link>https://observerbd.com/news/587211</link>
+            <guid isPermaLink="true">https://observerbd.com/news/587211</guid>
+            <pubDate>Sun, 09 Aug 2026 17:24:40 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Stop Putting Poison on Our Plates]]></title>
-            <description><![CDATA[Dear Sir,Driven by the desire to make excessive profits, some dishonest traders adulterate food with]]></description>
-            <link>https://observerbd.com/news/587034</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587034</guid>
+            <title><![CDATA[Ensure Transparency in Exam Paper Evaluation]]></title>
+            <description><![CDATA[Dear Sir,Education is the backbone of a nation, and a fair examination system is essential]]></description>
+            <link>https://observerbd.com/news/587212</link>
+            <guid isPermaLink="true">https://observerbd.com/news/587212</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 16:25:53 GMT</pubDate>
+            <pubDate>Sun, 09 Aug 2026 17:24:40 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Singapore at 61: Building on Shared Values and Enduring Friendship]]></title>
-            <description><![CDATA[This year, Singapore celebrates 61 years of independence. 2026 also marks the 60th anniversary of]]></description>
-            <link>https://observerbd.com/news/587035</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587035</guid>
-            <dc:creator><![CDATA[Derek Loh]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 16:25:53 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/08/08/ob_1786201351_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is Bangladesh Ready for the Next Major Earthquake?]]></title>
-            <description><![CDATA[For more than two decades, scientists, geologists, disaster management experts, and international organizations have repeatedly]]></description>
-            <link>https://observerbd.com/news/587036</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587036</guid>
-            <dc:creator><![CDATA[Shahiduzzaman]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 16:25:53 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/08/08/ob_1786201327_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
