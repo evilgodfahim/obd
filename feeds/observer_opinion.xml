@@ -1,156 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Opinion]]></title>
-        <description><![CDATA[Latest opinion pieces from The Daily Observer]]></description>
+        <title><![CDATA[The Daily Observer – Opinion (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 05:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 07:15:16 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/246" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 07:15:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Child marriage, malnutrition fall as education, sanitation improve]]></title>
-            <description><![CDATA[Once marked by malnutrition, child marriage, educational deprivation, poor sanitation and poverty, Dhaka East has]]></description>
-            <link>https://observerbd.com/news/587759</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587759</guid>
-            <dc:creator><![CDATA[Mizanur Rahman]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/12/ob_76.1786552009_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mosabber raises the bar for environmental journalism in Bangladesh]]></title>
-            <description><![CDATA[Growing up near Bangladesh's Teesta River, Mosabber Hossain witnessed a cycle that repeated itself almost]]></description>
-            <link>https://observerbd.com/news/587441</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587441</guid>
-            <dc:creator><![CDATA[Md Abdur Razzak Sarker]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/10/ob_77.1786382333_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miswak: An overlooked Sunnah in modern muslim life]]></title>
-            <description><![CDATA[Once a regular practice in the daily lives of Muslims, the use of miswak is]]></description>
-            <link>https://observerbd.com/news/587190</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587190</guid>
-            <dc:creator><![CDATA[Observer Online Report]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/09/ob_77.1786281223_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi philosopher Iqramlemagne gains acclaim in Hospitality]]></title>
-            <description><![CDATA[Bangladeshi philosopher Iqramlemagne, widely known as the “Father of Hospitality,” has gained recognition in the]]></description>
-            <link>https://observerbd.com/news/587173</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587173</guid>
-            <dc:creator><![CDATA[Observer Staff Correspondent]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/09/ob_77.1786273302_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SSC, HSC exams over: What should students do next?]]></title>
-            <description><![CDATA[After months of classes, revision and examination pressure, SSC and HSC candidates are finally reaching]]></description>
-            <link>https://observerbd.com/news/587163</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587163</guid>
-            <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/09/ob_75.1786268682_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to defend yourself against a false case]]></title>
-            <description><![CDATA[Law is the backbone of the state, safeguarding rights, defining duties and upholding justice. Yet]]></description>
-            <link>https://observerbd.com/news/587001</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587001</guid>
-            <dc:creator><![CDATA[Rahul Deb Nath]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/08/ob_76.1786184596_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech prices set to explode worldwide; How Bangladesh will be hit]]></title>
-            <description><![CDATA[Consumer-level PC users were already suffering under the massive price spikes caused by the ongoing]]></description>
-            <link>https://observerbd.com/news/586880</link>
-            <guid isPermaLink="true">https://observerbd.com/news/586880</guid>
-            <dc:creator><![CDATA[Shahman Abir]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/07/ob_76.1786107895_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rangamati's Papaya Orchard destruction: Chittagong Hill Tracts security challenges]]></title>
-            <description><![CDATA[The recent destruction of hundreds of fruit-bearing papaya trees in a Rangamati orchard should not]]></description>
-            <link>https://observerbd.com/news/586584</link>
-            <guid isPermaLink="true">https://observerbd.com/news/586584</guid>
-            <dc:creator><![CDATA[Dr. Md. Mizanur Rahman]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/05/ob_76.1785936912_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[We used to know everything, now we know nothing (except one thing)]]></title>
-            <description><![CDATA[The polymath era is commonly referred to as the timeline of pre-industrial and Renaissance societies,]]></description>
-            <link>https://observerbd.com/news/586458</link>
-            <guid isPermaLink="true">https://observerbd.com/news/586458</guid>
-            <dc:creator><![CDATA[Shahman Abir]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/04/ob_76.1785862326_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[When a Institution Teacher Beats a Child: What Should Parents Do?]]></title>
-            <description><![CDATA[A child comes home from institution unusually quiet. There may be a bruise, pain or]]></description>
-            <link>https://observerbd.com/news/586105</link>
-            <guid isPermaLink="true">https://observerbd.com/news/586105</guid>
-            <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/02/ob_75.1785664506_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Don’t Touch, Don’t Panic: What to Do Around a Suspicious Object]]></title>
-            <description><![CDATA[Two suspicious, bomb-like objects found at the Mirpur-10 and Farmgate metro rail stations on Saturday]]></description>
-            <link>https://observerbd.com/news/585958</link>
-            <guid isPermaLink="true">https://observerbd.com/news/585958</guid>
-            <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/01/ob_75.1785591904_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk claims money won’t matter in 10yrs, Utopia or Techno-Feudalism?]]></title>
-            <description><![CDATA[The World’s first trillionaire, Elon Musk recently told The Economist that “Money won’t matter in]]></description>
-            <link>https://observerbd.com/news/585674</link>
-            <guid isPermaLink="true">https://observerbd.com/news/585674</guid>
-            <dc:creator><![CDATA[Shahman Abir]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/07/30/ob_76.1785414040_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Dirty Truth About Kitchen Scrubbers]]></title>
-            <description><![CDATA[Scientists say the everyday cleaning tool could harbour billions of bacteriabut the real concern is]]></description>
-            <link>https://observerbd.com/news/585393</link>
-            <guid isPermaLink="true">https://observerbd.com/news/585393</guid>
-            <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/07/28/ob_75.1785223256_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Legal Vacuum for Climate Displaced People]]></title>
-            <description><![CDATA[We are no longer just facing a changing environment rather we are witnessing the systemic]]></description>
-            <link>https://observerbd.com/news/584639</link>
-            <guid isPermaLink="true">https://observerbd.com/news/584639</guid>
-            <dc:creator><![CDATA[FoyjunnesaSharmin]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/07/23/ob_76.1784805531_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[National seminar on solid waste management marks World Environment Day 2026]]></title>
-            <description><![CDATA[Government officials and environmental experts have called for stronger institutional coordination and stakeholder engagement to]]></description>
-            <link>https://observerbd.com/news/583591</link>
-            <guid isPermaLink="true">https://observerbd.com/news/583591</guid>
-            <dc:creator><![CDATA[Observer Online Report]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/07/16/ob_34.1784184332_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[CCECC Bangladesh distributes emergency relief to flood victims]]></title>
-            <description><![CDATA[China Civil Engineering Construction Corporation (CCECC) Bangladesh Limited has distributed emergency relief among 760 flood-affected]]></description>
-            <link>https://observerbd.com/news/583240</link>
-            <guid isPermaLink="true">https://observerbd.com/news/583240</guid>
-            <dc:creator><![CDATA[Observer Online Report]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 05:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/07/13/ob_77.1783957319_th.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://observerbd.com</link>
+            <guid isPermaLink="true">https://observerbd.com</guid>
+            <pubDate>Fri, 14 Aug 2026 07:15:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
