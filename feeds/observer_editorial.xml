@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Observer – Editorial]]></title>
+        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 14:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 15:14:56 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 14:16:50 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 15:14:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://observerbd.com</link>
-            <guid isPermaLink="true">https://observerbd.com</guid>
-            <pubDate>Sun, 16 Aug 2026 14:16:50 GMT</pubDate>
+            <title><![CDATA[Gas Shortage Taking Toll on Our Industrial Sector]]></title>
+            <description><![CDATA[As we warned in our recent editorial, “Do Not Let Gas Crisis Cripple Our Garment]]></description>
+            <link>https://observerbd.com/news/588229</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588229</guid>
+            <pubDate>Sun, 16 Aug 2026 15:14:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Technical Education Must Get Greater Priority]]></title>
+            <description><![CDATA[Dear Sir,Technical education is indispensable for building a skilled workforce and achieving sustainable economic development]]></description>
+            <link>https://observerbd.com/news/588230</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588230</guid>
+            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 15:14:56 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gas, Power and the Growing Threat to Bangladesh’s Economy]]></title>
+            <description><![CDATA[Bangladesh’s worsening energy situation has emerged as another serious warning about the country’s growing energy]]></description>
+            <link>https://observerbd.com/news/588231</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588231</guid>
+            <dc:creator><![CDATA[Motaher Hossain]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 15:14:56 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/08/15/ob_1786807987_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Democracy Must Remain a State Principle]]></title>
+            <description><![CDATA[The Consensus Commission, formed by the then interim government with Chief Adviser Dr Md Yunus]]></description>
+            <link>https://observerbd.com/news/588232</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588232</guid>
+            <dc:creator><![CDATA[Md Abdullah Al Hasan Chowdhury]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 15:14:56 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/08/15/ob_1786807943_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
