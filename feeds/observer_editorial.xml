@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Observer – Editorial]]></title>
+        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 17:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 18:27:29 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 17:22:04 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 18:27:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://observerbd.com</link>
-            <guid isPermaLink="true">https://observerbd.com</guid>
-            <pubDate>Tue, 18 Aug 2026 17:22:04 GMT</pubDate>
+            <title><![CDATA[Shelter, Safety and Dignity: Enhancing Disaster Resilience in Cox’s Bazar Camps]]></title>
+            <description><![CDATA[On today's World Humanitarian Day, their story is a reminder that humanitarian action is not]]></description>
+            <link>https://observerbd.com/news/588798</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588798</guid>
+            <dc:creator><![CDATA[Abu Taleb Md Saqib]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 18:27:29 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sanction-Proof Security and Why Dhaka Should Buy Russian Arms]]></title>
+            <description><![CDATA[In today's growing multipolar arms market, real power belongs to countries that actually have options.]]></description>
+            <link>https://observerbd.com/news/588799</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588799</guid>
+            <dc:creator><![CDATA[Rajeev Ahmed]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 18:27:29 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[180 Days of Promise, Pressure and Patience]]></title>
+            <description><![CDATA[Six months into the BNP-led government’s tenure, we believe Bangladesh stands at a delicate but]]></description>
+            <link>https://observerbd.com/news/588800</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588800</guid>
+            <pubDate>Tue, 18 Aug 2026 18:27:29 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Retain Talented People in Teaching]]></title>
+            <description><![CDATA[Dear Sir,Teaching is a noble profession, and talented teachers play a vital role in educating]]></description>
+            <link>https://observerbd.com/news/588801</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588801</guid>
+            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 18:27:29 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
