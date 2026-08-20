@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Observer – Editorial]]></title>
+        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 09:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 10:22:24 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 09:27:58 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 10:22:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://observerbd.com</link>
-            <guid isPermaLink="true">https://observerbd.com</guid>
-            <pubDate>Thu, 20 Aug 2026 09:27:58 GMT</pubDate>
+            <title><![CDATA[Widen the Tax Net, Not the Burden]]></title>
+            <description><![CDATA[Bangladesh needs to raise more revenue, but repeatedly asking the same taxpayers to pay more]]></description>
+            <link>https://observerbd.com/news/588968</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588968</guid>
+            <pubDate>Thu, 20 Aug 2026 10:22:24 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[COD Order Cancellations Hurt Small Sellers]]></title>
+            <description><![CDATA[Dear Sir,Cash-on-delivery (COD) has helped many small online sellers in Bangladesh attract customers who are]]></description>
+            <link>https://observerbd.com/news/588969</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588969</guid>
+            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 10:22:24 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['The Trojan Horse of the Mediterranean']]></title>
+            <description><![CDATA[Athens has not ventured into the Middle East to sign trade deals. Over the past]]></description>
+            <link>https://observerbd.com/news/588970</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588970</guid>
+            <dc:creator><![CDATA[Amina Amrin]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 10:22:24 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/08/19/ob_1787153715_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[People Who Dare to Speak the Truth]]></title>
+            <description><![CDATA[The most dangerous moment for a state is not necessarily when the number of its]]></description>
+            <link>https://observerbd.com/news/588971</link>
+            <guid isPermaLink="true">https://observerbd.com/news/588971</guid>
+            <dc:creator><![CDATA[Shamsun Nahar]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 10:22:24 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/08/19/ob_1787153665_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
