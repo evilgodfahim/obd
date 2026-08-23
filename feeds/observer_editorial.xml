@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 15:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 16:17:13 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 15:15:07 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 16:17:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Much More Will Dhaka-Ashulia Expressway Cost Us?]]></title>
-            <description><![CDATA[The proposed second revision of the Dhaka-Ashulia Elevated Expressway project raises a question that should]]></description>
-            <link>https://observerbd.com/news/589469</link>
-            <guid isPermaLink="true">https://observerbd.com/news/589469</guid>
-            <pubDate>Sun, 23 Aug 2026 15:15:07 GMT</pubDate>
+            <title><![CDATA[Beneath the Gloss: Dhaka Metro’s Technical Risks]]></title>
+            <description><![CDATA[The inauguration of Dhaka’s Mass Rapid Transit (MRT) Line-6 on December 29, 2022, marked a]]></description>
+            <link>https://observerbd.com/news/589652</link>
+            <guid isPermaLink="true">https://observerbd.com/news/589652</guid>
+            <dc:creator><![CDATA[Humaira Parvin]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 16:17:13 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Time to Make AI Greener]]></title>
-            <description><![CDATA[Dear Sir,Artificial intelligence is becoming part of our everyday lives, from creating images and summarising]]></description>
-            <link>https://observerbd.com/news/589470</link>
-            <guid isPermaLink="true">https://observerbd.com/news/589470</guid>
+            <title><![CDATA[Bangladesh’s Trust Crisis: Why Mistrust Is Growing and How to Rebuild It]]></title>
+            <description><![CDATA[The media has a particularly important responsibility. Responsible journalism should verify information, challenge misinformation and]]></description>
+            <link>https://observerbd.com/news/589653</link>
+            <guid isPermaLink="true">https://observerbd.com/news/589653</guid>
+            <dc:creator><![CDATA[Shahiduzzaman]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 16:17:13 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Before Spending More, Explain Chattogram’s Waterlogging]]></title>
+            <description><![CDATA[We find it unacceptable that Chattogram continues to be plagued by waterlogging despite more than]]></description>
+            <link>https://observerbd.com/news/589654</link>
+            <guid isPermaLink="true">https://observerbd.com/news/589654</guid>
+            <pubDate>Sun, 23 Aug 2026 16:17:13 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Libraries Can Revive the Reading Habit]]></title>
+            <description><![CDATA[Dear Sir,The growing dependence of young people on digital devices has become a grave concern.]]></description>
+            <link>https://observerbd.com/news/589655</link>
+            <guid isPermaLink="true">https://observerbd.com/news/589655</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 23 Aug 2026 15:15:07 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 16:17:13 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can People Hope Mirza Fakhrul Will Be President of All?]]></title>
-            <description><![CDATA[Mirza Fakhrul Islam Alamgir has won the Presidency! His real test begins now: Can a]]></description>
-            <link>https://observerbd.com/news/589471</link>
-            <guid isPermaLink="true">https://observerbd.com/news/589471</guid>
-            <dc:creator><![CDATA[ARNAB ASHRAF]]></dc:creator>
-            <pubDate>Sun, 23 Aug 2026 15:15:07 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/08/22/ob_1787412310_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Erosion of Military Professionalism, Crisis of Personal Ethics: A Moral-Strategic Review]]></title>
-            <description><![CDATA[In mid-2003/2004, when I was undertaking the Basic Commando and Advanced Commando courses at the]]></description>
-            <link>https://observerbd.com/news/589472</link>
-            <guid isPermaLink="true">https://observerbd.com/news/589472</guid>
-            <dc:creator><![CDATA[Major Rezaul Karim (Rtd)]]></dc:creator>
-            <pubDate>Sun, 23 Aug 2026 15:15:07 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/08/22/ob_1787412274_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
