@@ -4,35 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 08:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 20:34:44 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Aug 2026 08:25:36 GMT</pubDate>
+        <pubDate>Fri, 28 Aug 2026 20:34:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Fertiliser Stocks Mean Little If Farmers Cannot Get Them]]></title>
-            <description><![CDATA[Farmers in several districts are struggling to obtain subsidised fertiliser at official prices even though]]></description>
-            <link>https://observerbd.com/news/590287</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590287</guid>
-            <pubDate>Fri, 28 Aug 2026 08:25:36 GMT</pubDate>
+            <title><![CDATA[South Asia Must Prepare for a New Climate Reality]]></title>
+            <description><![CDATA[The catastrophic floods along the Nepal-Tibet border, which have killed hundreds of people and left]]></description>
+            <link>https://observerbd.com/news/590470</link>
+            <guid isPermaLink="true">https://observerbd.com/news/590470</guid>
+            <pubDate>Fri, 28 Aug 2026 20:34:44 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Provide Prompt Medical Care to Patients]]></title>
-            <description><![CDATA[Dear Sir,A hospital is one of the most important places dedicated to serving humanity. Therefore,]]></description>
-            <link>https://observerbd.com/news/590288</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590288</guid>
+            <title><![CDATA[Manage Energy, Not Time]]></title>
+            <description><![CDATA[Dear Sir,“Time is money,” Benjamin Franklin famously said, and Bangladesh’s corporate world seems to have]]></description>
+            <link>https://observerbd.com/news/590471</link>
+            <guid isPermaLink="true">https://observerbd.com/news/590471</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 08:25:36 GMT</pubDate>
+            <pubDate>Fri, 28 Aug 2026 20:34:44 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Mecca Defence Pact: Role of Bangladesh]]></title>
-            <description><![CDATA[The concept of a Sunni NATO comprising Turkey, Pakistan, and Saudi Arabia is no longer]]></description>
-            <link>https://observerbd.com/news/590289</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590289</guid>
-            <dc:creator><![CDATA[Major Rezaul Karim (Rtd)]]></dc:creator>
-            <pubDate>Fri, 28 Aug 2026 08:25:36 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/08/27/ob_1787844866_th.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[‘Climate Change Is Now a Medical Emergency’]]></title>
+            <description><![CDATA[Let me tell you something that should alarm every single one of us: climate change]]></description>
+            <link>https://observerbd.com/news/590472</link>
+            <guid isPermaLink="true">https://observerbd.com/news/590472</guid>
+            <dc:creator><![CDATA[Prof Dr Kazi Nawshad Hossain]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 20:34:44 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/08/28/ob_1787933084_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marital Status Does Not Define a Woman]]></title>
+            <description><![CDATA[In Bangladesh, a woman can earn a degree, build a career, support her family, become]]></description>
+            <link>https://observerbd.com/news/590473</link>
+            <guid isPermaLink="true">https://observerbd.com/news/590473</guid>
+            <dc:creator><![CDATA[Nadia Afroze Disha]]></dc:creator>
+            <pubDate>Fri, 28 Aug 2026 20:34:44 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/08/28/ob_1787933046_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
