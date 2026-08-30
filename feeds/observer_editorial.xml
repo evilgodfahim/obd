@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 14:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 18:20:51 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Aug 2026 14:12:50 GMT</pubDate>
+        <pubDate>Sun, 30 Aug 2026 18:20:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Dhaka Needs a Lasting Solution for Hawker Congestion]]></title>
-            <description><![CDATA[It is difficult to accept that despite repeated eviction drives by the Dhaka North City]]></description>
-            <link>https://observerbd.com/news/590622</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590622</guid>
-            <pubDate>Sun, 30 Aug 2026 14:12:50 GMT</pubDate>
+            <title><![CDATA[Turning Regional Connectivity into National Strength]]></title>
+            <description><![CDATA[Bangladesh is a downstream delta. That does not mean it must remain downstream in the]]></description>
+            <link>https://observerbd.com/news/590832</link>
+            <guid isPermaLink="true">https://observerbd.com/news/590832</guid>
+            <dc:creator><![CDATA[Md Imdadul Haque Sohag]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 18:20:51 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/08/30/ob_1788106168_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smart Farmer Card: Making Our Agriculture Smarter]]></title>
+            <description><![CDATA[Every planting season in Bangladesh begins with hope, but that hope is accompanied by deep]]></description>
+            <link>https://observerbd.com/news/590833</link>
+            <guid isPermaLink="true">https://observerbd.com/news/590833</guid>
+            <dc:creator><![CDATA[Dr Niaz Md Farhat Rahman]]></dc:creator>
+            <pubDate>Sun, 30 Aug 2026 18:20:51 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/08/30/ob_1788106238_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gas Cuts to Power Plants Will Only Deepen the Crisis]]></title>
+            <description><![CDATA[We find the government’s decision to cut gas supplies to power plants deeply concerning. According]]></description>
+            <link>https://observerbd.com/news/590834</link>
+            <guid isPermaLink="true">https://observerbd.com/news/590834</guid>
+            <pubDate>Sun, 30 Aug 2026 18:20:51 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Nepal Flood Disaster: A Time for Solidarity and Humanity]]></title>
-            <description><![CDATA[Dear Sir,The devastating floods in Nepal, with their tragic loss of lives, displacement of communities,]]></description>
-            <link>https://observerbd.com/news/590623</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590623</guid>
+            <title><![CDATA[AI Can Boost SME Productivity]]></title>
+            <description><![CDATA[Dear Sir,Artificial Intelligence (AI) is often associated with large technology companies and multinational corporations. However,]]></description>
+            <link>https://observerbd.com/news/590835</link>
+            <guid isPermaLink="true">https://observerbd.com/news/590835</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 14:12:50 GMT</pubDate>
+            <pubDate>Sun, 30 Aug 2026 18:20:51 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What We Can Learn from Disasters in Nepal and Tibet]]></title>
-            <description><![CDATA[The recent catastrophic flooding and landslides on the Nepal-Tibet border have created an opportunity to]]></description>
-            <link>https://observerbd.com/news/590624</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590624</guid>
-            <dc:creator><![CDATA[AL Sharia]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 14:12:50 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/08/29/ob_1788018086_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Protect Consumers from Unhealthy Packaged Foods]]></title>
-            <description><![CDATA[The other day, at a grocery store, I met a mother who was buying a]]></description>
-            <link>https://observerbd.com/news/590625</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590625</guid>
-            <dc:creator><![CDATA[Al Mamun Rabbi]]></dc:creator>
-            <pubDate>Sun, 30 Aug 2026 14:12:50 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/08/29/ob_1788018031_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
