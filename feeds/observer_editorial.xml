@@ -1,47 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial]]></title>
-        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
+        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 31 Aug 2026 06:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 14:44:58 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 31 Aug 2026 06:31:27 GMT</pubDate>
+        <pubDate>Mon, 31 Aug 2026 14:44:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Turning Regional Connectivity into National Strength]]></title>
-            <description><![CDATA[Bangladesh is a downstream delta. That does not mean it must remain downstream in the]]></description>
-            <link>https://observerbd.com/news/590832</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590832</guid>
-            <dc:creator><![CDATA[Md Imdadul Haque Sohag]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 06:31:27 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/08/30/ob_1788106168_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Smart Farmer Card: Making Our Agriculture Smarter]]></title>
-            <description><![CDATA[Every planting season in Bangladesh begins with hope, but that hope is accompanied by deep]]></description>
-            <link>https://observerbd.com/news/590833</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590833</guid>
-            <dc:creator><![CDATA[Dr Niaz Md Farhat Rahman]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 06:31:27 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/08/30/ob_1788106238_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gas Cuts to Power Plants Will Only Deepen the Crisis]]></title>
-            <description><![CDATA[We find the government’s decision to cut gas supplies to power plants deeply concerning. According]]></description>
-            <link>https://observerbd.com/news/590834</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590834</guid>
-            <pubDate>Mon, 31 Aug 2026 06:31:27 GMT</pubDate>
-            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI Can Boost SME Productivity]]></title>
-            <description><![CDATA[Dear Sir,Artificial Intelligence (AI) is often associated with large technology companies and multinational corporations. However,]]></description>
-            <link>https://observerbd.com/news/590835</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590835</guid>
-            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 06:31:27 GMT</pubDate>
-            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://observerbd.com</link>
+            <guid isPermaLink="true">https://observerbd.com</guid>
+            <pubDate>Mon, 31 Aug 2026 14:44:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
