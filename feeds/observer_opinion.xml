@@ -1,156 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Opinion]]></title>
-        <description><![CDATA[Latest opinion pieces from The Daily Observer]]></description>
+        <title><![CDATA[The Daily Observer – Opinion (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 21:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 23:45:55 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/246" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 23:45:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Govt moves to reduce BPC monopoly in fuel market]]></title>
-            <description><![CDATA[The government is moving to open Bangladesh’s petroleum market to private-sector participation, allowing companies to]]></description>
-            <link>https://observerbd.com/news/591985</link>
-            <guid isPermaLink="true">https://observerbd.com/news/591985</guid>
-            <dc:creator><![CDATA[Salahuddin]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/09/06/ob_77.1788708353_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fahrenheit 451: A tale of burning books and the modern ‘Fireman’]]></title>
-            <description><![CDATA[Book enthusiasts have everlasting affection for Ray Bradbury’s Fahrenheit 451, a novel that was originally]]></description>
-            <link>https://observerbd.com/news/591632</link>
-            <guid isPermaLink="true">https://observerbd.com/news/591632</guid>
-            <dc:creator><![CDATA[Shahman Abir]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/09/04/ob_76.1788520307_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Melting polar ice threatens global climate]]></title>
-            <description><![CDATA[Melting ice sheets in the polar regions are increasingly becoming a global concern, with scientists]]></description>
-            <link>https://observerbd.com/news/591621</link>
-            <guid isPermaLink="true">https://observerbd.com/news/591621</guid>
-            <dc:creator><![CDATA[Observer online report]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/09/04/ob_75.1788515665_th.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump's letter: New geopolitical equation between B’desh and the US behind the scenes]]></title>
-            <description><![CDATA[Donald Trump has thanked Mr. Tarique Rahman for the recent letter he sent to the]]></description>
-            <link>https://observerbd.com/news/591587</link>
-            <guid isPermaLink="true">https://observerbd.com/news/591587</guid>
-            <dc:creator><![CDATA[Brigadier General Dr. AKM Shamshul Islam, PSC, G (Retd.)]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/09/04/ob_76.1788495059_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The economics of environmental business management in Bangladesh]]></title>
-            <description><![CDATA[In today’s world, the environment is no longer merely a matter of protecting nature and]]></description>
-            <link>https://observerbd.com/news/591144</link>
-            <guid isPermaLink="true">https://observerbd.com/news/591144</guid>
-            <dc:creator><![CDATA[M. A. Karim Ibn Mosobbir]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/09/01/ob_76.1788275905_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What does it really take to get a salary hike at work?]]></title>
-            <description><![CDATA[Getting a salary increase at work is not simply about working longer hours or pointing]]></description>
-            <link>https://observerbd.com/news/590408</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590408</guid>
-            <dc:creator><![CDATA[Observer Online Report]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/28/ob_77.1787920003_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech leaks: Apple’s $2,000 foldable; Samsung’s silicon-carbon transition]]></title>
-            <description><![CDATA[Smartphone giants Samsung and Apple are preparing for major flagship releases over the coming months,]]></description>
-            <link>https://observerbd.com/news/590251</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590251</guid>
-            <dc:creator><![CDATA[Observer Online Report]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/27/ob_76.1787827824_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh should think twice before joining the Makkah Pact]]></title>
-            <description><![CDATA[Bangladesh should carefully assess the strategic, security, economic and diplomatic implications before deciding whether to]]></description>
-            <link>https://observerbd.com/news/590154</link>
-            <guid isPermaLink="true">https://observerbd.com/news/590154</guid>
-            <dc:creator><![CDATA[Staff Correspondent]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/26/ob_77.1787740633_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jobs might have never made iPhone without the CIA]]></title>
-            <description><![CDATA[Steve Jobs would never have returned to Apple and iPhone might never have existed without]]></description>
-            <link>https://observerbd.com/news/589250</link>
-            <guid isPermaLink="true">https://observerbd.com/news/589250</guid>
-            <dc:creator><![CDATA[Shahman Abir]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/21/ob_76.1787312395_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Honor’s Robot Phone: Innovative, yet scary]]></title>
-            <description><![CDATA[On August 12, smartphone manufacturer Honor unveiled its robotic smartphone Honor Robot Phone, which began]]></description>
-            <link>https://observerbd.com/news/588952</link>
-            <guid isPermaLink="true">https://observerbd.com/news/588952</guid>
-            <dc:creator><![CDATA[Shahman Abir]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/19/ob_76.1787151246_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why young workers are putting flexibility ahead of salary]]></title>
-            <description><![CDATA[For many young jobseekers, salary is no longer the only factor when choosing a career.]]></description>
-            <link>https://observerbd.com/news/588946</link>
-            <guid isPermaLink="true">https://observerbd.com/news/588946</guid>
-            <dc:creator><![CDATA[Observer Online Report]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/19/ob_77.1787140953_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[When Smaller Was Considered Better: The Strange History of men genitals Enlargement]]></title>
-            <description><![CDATA[The desire to change the size or appearance of the male sexual organ is hardly]]></description>
-            <link>https://observerbd.com/news/588542</link>
-            <guid isPermaLink="true">https://observerbd.com/news/588542</guid>
-            <dc:creator><![CDATA[feature desk]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/17/ob_75.1786956841_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Labour Laws and Remedies for Workers]]></title>
-            <description><![CDATA[Since ancient times, people have worked to sustain their livelihoods. The Industrial Revolution transformed workplaces,]]></description>
-            <link>https://observerbd.com/news/588167</link>
-            <guid isPermaLink="true">https://observerbd.com/news/588167</guid>
-            <dc:creator><![CDATA[Rahul Deb Nath]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/15/ob_76.1786789404_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Child marriage, malnutrition fall as education, sanitation improve]]></title>
-            <description><![CDATA[Once marked by malnutrition, child marriage, educational deprivation, poor sanitation and poverty, Dhaka East has]]></description>
-            <link>https://observerbd.com/news/587759</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587759</guid>
-            <dc:creator><![CDATA[Mizanur Rahman]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/12/ob_76.1786552009_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mosabber raises the bar for environmental journalism in Bangladesh]]></title>
-            <description><![CDATA[Growing up near Bangladesh's Teesta River, Mosabber Hossain witnessed a cycle that repeated itself almost]]></description>
-            <link>https://observerbd.com/news/587441</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587441</guid>
-            <dc:creator><![CDATA[Md Abdur Razzak Sarker]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/10/ob_77.1786382333_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miswak: An overlooked Sunnah in modern muslim life]]></title>
-            <description><![CDATA[Once a regular practice in the daily lives of Muslims, the use of miswak is]]></description>
-            <link>https://observerbd.com/news/587190</link>
-            <guid isPermaLink="true">https://observerbd.com/news/587190</guid>
-            <dc:creator><![CDATA[Observer Online Report]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 21:26:49 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/08/09/ob_77.1786281223_th.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://observerbd.com</link>
+            <guid isPermaLink="true">https://observerbd.com</guid>
+            <pubDate>Wed, 09 Sep 2026 23:45:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
