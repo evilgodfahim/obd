@@ -1,47 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial]]></title>
-        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
+        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 14:58:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 18:21:03 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 14:58:03 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 18:21:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[BRICS at a Crossroads: Can It Become an Effective Global Economic Power?]]></title>
-            <description><![CDATA[As leaders of the expanded BRICS grouping prepare to gather in New Delhi on September]]></description>
-            <link>https://observerbd.com/news/592340</link>
-            <guid isPermaLink="true">https://observerbd.com/news/592340</guid>
-            <dc:creator><![CDATA[ARNAB ASHRAF]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 14:58:03 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/09/09/ob_1788894995_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking Literacy for Bangladesh]]></title>
-            <description><![CDATA[Every year, International Literacy Day invites us to reconsider a deceptively simple question: what does]]></description>
-            <link>https://observerbd.com/news/592341</link>
-            <guid isPermaLink="true">https://observerbd.com/news/592341</guid>
-            <dc:creator><![CDATA[Musharraf Tansen]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 14:58:03 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/09/09/ob_1788895048_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Before Expanding Nuclear Power, Build Capacity]]></title>
-            <description><![CDATA[Nuclear power can strengthen Bangladesh’s energy security, but expanding it without the institutions and expertise]]></description>
-            <link>https://observerbd.com/news/592342</link>
-            <guid isPermaLink="true">https://observerbd.com/news/592342</guid>
-            <pubDate>Wed, 09 Sep 2026 14:58:03 GMT</pubDate>
-            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let Protest Be Dignified; Let Justice Prevail]]></title>
-            <description><![CDATA[Dear Sir,In every sphere of life, there are different forms of protest�each with its own]]></description>
-            <link>https://observerbd.com/news/592343</link>
-            <guid isPermaLink="true">https://observerbd.com/news/592343</guid>
-            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 14:58:03 GMT</pubDate>
-            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://observerbd.com</link>
+            <guid isPermaLink="true">https://observerbd.com</guid>
+            <pubDate>Wed, 09 Sep 2026 18:21:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
