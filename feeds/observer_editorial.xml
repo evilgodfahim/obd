@@ -4,16 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 05:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 10:24:27 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Sep 2026 05:36:06 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 10:24:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Don’t Turn Playgrounds into Parking Lots]]></title>
             <description><![CDATA[When the capital Dhaka is already starving for breathing space, every single green space and]]></description>
             <link>https://observerbd.com/news/594342</link>
             <guid isPermaLink="true">https://observerbd.com/news/594342</guid>
-            <pubDate>Sun, 20 Sep 2026 05:36:06 GMT</pubDate>
+            <pubDate>Sun, 20 Sep 2026 10:24:27 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -22,7 +22,7 @@
             <link>https://observerbd.com/news/594343</link>
             <guid isPermaLink="true">https://observerbd.com/news/594343</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 05:36:06 GMT</pubDate>
+            <pubDate>Sun, 20 Sep 2026 10:24:27 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -31,7 +31,7 @@
             <link>https://observerbd.com/news/594344</link>
             <guid isPermaLink="true">https://observerbd.com/news/594344</guid>
             <dc:creator><![CDATA[ARNAB ASHRAF]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 05:36:06 GMT</pubDate>
+            <pubDate>Sun, 20 Sep 2026 10:24:27 GMT</pubDate>
             <enclosure url="https://www.observerbd.com:443/2026/09/19/ob_1789830291_th.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -40,7 +40,7 @@
             <link>https://observerbd.com/news/594345</link>
             <guid isPermaLink="true">https://observerbd.com/news/594345</guid>
             <dc:creator><![CDATA[Shaon Arafat]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 05:36:06 GMT</pubDate>
+            <pubDate>Sun, 20 Sep 2026 10:24:27 GMT</pubDate>
             <enclosure url="https://www.observerbd.com:443/2026/09/19/ob_1789830248_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
