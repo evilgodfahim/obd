@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 17:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 21:32:24 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 17:37:23 GMT</pubDate>
+        <pubDate>Mon, 21 Sep 2026 21:32:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Stop Acting Only After Bloodshed]]></title>
-            <description><![CDATA[How many more innocent children must die before our leaders stop offering hollow sympathies and]]></description>
-            <link>https://observerbd.com/news/594544</link>
-            <guid isPermaLink="true">https://observerbd.com/news/594544</guid>
-            <pubDate>Mon, 21 Sep 2026 17:37:23 GMT</pubDate>
+            <title><![CDATA[Fuel Price Hikes and Their Potential Impact on Agriculture]]></title>
+            <description><![CDATA[Agriculture, the lifeblood of Bangladesh’s economy, is facing mounting pressure. On one hand, farmers are]]></description>
+            <link>https://observerbd.com/news/594747</link>
+            <guid isPermaLink="true">https://observerbd.com/news/594747</guid>
+            <dc:creator><![CDATA[Dr M Abdul Momin]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 21:32:24 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/09/21/ob_1790005332_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh and the Mecca Defence Alliance]]></title>
+            <description><![CDATA[For Bangladesh, the real question is not simply whether it should join the emerging Mecca]]></description>
+            <link>https://observerbd.com/news/594748</link>
+            <guid isPermaLink="true">https://observerbd.com/news/594748</guid>
+            <dc:creator><![CDATA[Lt Col Mohammad Manzurul Haque (Retd)]]></dc:creator>
+            <pubDate>Mon, 21 Sep 2026 21:32:24 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/09/21/ob_1790005389_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crores down the Drain, Yet No Respite for City Dwellers]]></title>
+            <description><![CDATA[We find it deeply concerning that 49mm of rainfall recorded by the Bangladesh Meteorological Department]]></description>
+            <link>https://observerbd.com/news/594749</link>
+            <guid isPermaLink="true">https://observerbd.com/news/594749</guid>
+            <pubDate>Mon, 21 Sep 2026 21:32:24 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Complete Naria’s Long-Awaited Kirtinasha Bridge]]></title>
-            <description><![CDATA[Dear Sir,People in Naria Upazila of Shariatpur District have long suffered because of the incomplete]]></description>
-            <link>https://observerbd.com/news/594545</link>
-            <guid isPermaLink="true">https://observerbd.com/news/594545</guid>
+            <title><![CDATA[Curb Crime Committed Under the Guise of Begging]]></title>
+            <description><![CDATA[Dear Sir,At present, serious crimes ranging from theft, robbery and snatching to kidnapping and loss]]></description>
+            <link>https://observerbd.com/news/594750</link>
+            <guid isPermaLink="true">https://observerbd.com/news/594750</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 17:37:23 GMT</pubDate>
+            <pubDate>Mon, 21 Sep 2026 21:32:24 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[India’s ‘Neighbourhood First’ Policy vis-à-vis Bangladesh: Some Propositions]]></title>
-            <description><![CDATA[India's “Neighbourhood First Policy” is a strategic foreign policy tenet, adopted by the government of]]></description>
-            <link>https://observerbd.com/news/594546</link>
-            <guid isPermaLink="true">https://observerbd.com/news/594546</guid>
-            <dc:creator><![CDATA[MUHAMMAD AZIZUL HAQUE]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 17:37:23 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/09/20/ob_1789919190_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Economic Myopia versus Gerontological Reality]]></title>
-            <description><![CDATA[Within the policy corridors of developing economies and utilitarian corporate circles, an unwritten, cynical calculation]]></description>
-            <link>https://observerbd.com/news/594547</link>
-            <guid isPermaLink="true">https://observerbd.com/news/594547</guid>
-            <dc:creator><![CDATA[Imdadul Haque Talukdar, PhD]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 17:37:23 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/09/20/ob_1789919031_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
