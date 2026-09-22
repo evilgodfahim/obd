@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Observer – Editorial]]></title>
+        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 15:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 19:28:07 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 15:21:10 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 19:28:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://observerbd.com</link>
-            <guid isPermaLink="true">https://observerbd.com</guid>
-            <pubDate>Tue, 22 Sep 2026 15:21:10 GMT</pubDate>
+            <title><![CDATA[Why is there so much debate about Jinnah?]]></title>
+            <description><![CDATA[The name of Muhammad Ali Jinnah is at the center of a unique controversy in]]></description>
+            <link>https://observerbd.com/news/594989</link>
+            <guid isPermaLink="true">https://observerbd.com/news/594989</guid>
+            <dc:creator><![CDATA[Major (Rtd) Rezaul Karim]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 19:28:07 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/09/22/ob_1790094272_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Recognise Education as a Knowledge Industry]]></title>
+            <description><![CDATA[Bangladesh’s higher education system stands at a crossroads. At a time when countries are competing]]></description>
+            <link>https://observerbd.com/news/594990</link>
+            <guid isPermaLink="true">https://observerbd.com/news/594990</guid>
+            <dc:creator><![CDATA[Professor Dr Abu Yousuf Md Abdullah]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 19:28:07 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/09/22/ob_1790094372_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Special UN Moment for Bangladesh]]></title>
+            <description><![CDATA[T he world is all set to hear another speech in New York this week,]]></description>
+            <link>https://observerbd.com/news/594991</link>
+            <guid isPermaLink="true">https://observerbd.com/news/594991</guid>
+            <pubDate>Tue, 22 Sep 2026 19:28:07 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Restore the Weight Scale at IU Medical Centre]]></title>
+            <description><![CDATA[Dear Sir,The Islamic University (IU) Medical Centre is the only place of trust for general]]></description>
+            <link>https://observerbd.com/news/594992</link>
+            <guid isPermaLink="true">https://observerbd.com/news/594992</guid>
+            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 19:28:07 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
