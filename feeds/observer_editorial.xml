@@ -4,44 +4,16 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 00:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 05:44:45 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 00:12:23 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2026 05:44:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[BRICS Is Bangladesh’s Strategic Path to Economic Sovereignty]]></title>
-            <description><![CDATA[During a heavy rain in Dhaka, a garment worker named Rima found a glowing golden]]></description>
-            <link>https://observerbd.com/news/595165</link>
-            <guid isPermaLink="true">https://observerbd.com/news/595165</guid>
-            <dc:creator><![CDATA[Rajeev Ahmed]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 00:12:23 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/09/23/ob_1790176187_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[From Diesel-Dependent to Smart Renewable Farming]]></title>
-            <description><![CDATA[Bangladesh’s agriculture is facing a challenge that can no longer be addressed simply by producing]]></description>
-            <link>https://observerbd.com/news/595166</link>
-            <guid isPermaLink="true">https://observerbd.com/news/595166</guid>
-            <dc:creator><![CDATA[REHAN AHMED]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 00:12:23 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/09/23/ob_1790176275_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keep Fuel Hike from Fuelling Inflation]]></title>
-            <description><![CDATA[The latest Tk20 per litre fuel price hike has raised fresh concerns about further inflationary]]></description>
-            <link>https://observerbd.com/news/595167</link>
-            <guid isPermaLink="true">https://observerbd.com/news/595167</guid>
-            <pubDate>Thu, 24 Sep 2026 00:12:23 GMT</pubDate>
-            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Install Streetlights on Rural Roads]]></title>
-            <description><![CDATA[Dear Sir,Even in this day and age, villages still lag significantly behind cities in basic]]></description>
-            <link>https://observerbd.com/news/595168</link>
-            <guid isPermaLink="true">https://observerbd.com/news/595168</guid>
-            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 00:12:23 GMT</pubDate>
-            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[No articles found]]></title>
+            <description><![CDATA[RSS feed could not scrape any articles.]]></description>
+            <link>https://observerbd.com/menu/199</link>
+            <guid isPermaLink="true">https://observerbd.com/menu/199</guid>
+            <pubDate>Thu, 24 Sep 2026 05:44:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
