@@ -4,16 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 19:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 23:20:12 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 19:03:27 GMT</pubDate>
+        <pubDate>Tue, 29 Sep 2026 23:20:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[No articles found]]></title>
-            <description><![CDATA[RSS feed could not scrape any articles.]]></description>
-            <link>https://observerbd.com/menu/199</link>
-            <guid isPermaLink="true">https://observerbd.com/menu/199</guid>
-            <pubDate>Tue, 29 Sep 2026 19:03:27 GMT</pubDate>
+            <title><![CDATA[The Age of Permanent Uncertainty]]></title>
+            <description><![CDATA[For decades, Bangladesh’s development story rested on an implicit assumption: that the external world would]]></description>
+            <link>https://observerbd.com/news/596493</link>
+            <guid isPermaLink="true">https://observerbd.com/news/596493</guid>
+            <dc:creator><![CDATA[Dr Matiur Rahman]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 23:20:12 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/09/30/ob_1790708686_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is UN Failing to Deal with Wars, Global Crisis?]]></title>
+            <description><![CDATA[The United Nations (UN) was created in the aftermath of the greatest failure of collective]]></description>
+            <link>https://observerbd.com/news/596494</link>
+            <guid isPermaLink="true">https://observerbd.com/news/596494</guid>
+            <dc:creator><![CDATA[ARNAB ASHRAF]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 23:20:12 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/09/30/ob_1790708727_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Cyber Law Must Not Become a Press Gag]]></title>
+            <description><![CDATA[The warning that Bangladesh could become a ‘massive prison’ if the cyber security law is]]></description>
+            <link>https://observerbd.com/news/596495</link>
+            <guid isPermaLink="true">https://observerbd.com/news/596495</guid>
+            <pubDate>Tue, 29 Sep 2026 23:20:12 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Protect Adolescents from Addiction and Bad Company]]></title>
+            <description><![CDATA[Dear Sir,I would like to draw attention to the growing influence of bad company and]]></description>
+            <link>https://observerbd.com/news/596496</link>
+            <guid isPermaLink="true">https://observerbd.com/news/596496</guid>
+            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
+            <pubDate>Tue, 29 Sep 2026 23:20:12 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
