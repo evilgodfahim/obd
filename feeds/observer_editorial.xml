@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 15:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 18:56:04 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Oct 2026 15:04:32 GMT</pubDate>
+        <pubDate>Sun, 04 Oct 2026 18:56:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Wait Five Years to Scrap Unfit Vehicles?]]></title>
-            <description><![CDATA[Why should a vehicle that has already failed to meet fitness requirements wait five long]]></description>
-            <link>https://observerbd.com/news/597248</link>
-            <guid isPermaLink="true">https://observerbd.com/news/597248</guid>
-            <pubDate>Sun, 04 Oct 2026 15:04:32 GMT</pubDate>
+            <title><![CDATA[Footpath Eviction: Time for a Permanent Solution]]></title>
+            <description><![CDATA[In the major cities of our country, particularly in Dhaka and Chattogram, as well as]]></description>
+            <link>https://observerbd.com/news/597442</link>
+            <guid isPermaLink="true">https://observerbd.com/news/597442</guid>
+            <dc:creator><![CDATA[Amir Mohammed Khosru]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 18:56:04 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/10/04/ob_1791129584_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[BDT Vostro: A New Chapter in Internationalisation of the Taka]]></title>
+            <description><![CDATA[Bangladesh Bank’s decision on September 23, 2026 to allow cross-border trade settlement in Taka through]]></description>
+            <link>https://observerbd.com/news/597443</link>
+            <guid isPermaLink="true">https://observerbd.com/news/597443</guid>
+            <dc:creator><![CDATA[Md Rezaul Karim]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 18:56:04 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/10/04/ob_1791129640_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Don’t Let LPG Syndicates Hold Us Hostage]]></title>
+            <description><![CDATA[We find it deeply concerning that ordinary households are now facing another blow amid persistent]]></description>
+            <link>https://observerbd.com/news/597444</link>
+            <guid isPermaLink="true">https://observerbd.com/news/597444</guid>
+            <pubDate>Sun, 04 Oct 2026 18:56:04 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Stop Reckless Bus Overtaking]]></title>
-            <description><![CDATA[Dear Sir,Every day, millions of people travel across Dhaka for their livelihoods. Unfortunately, reckless overtaking]]></description>
-            <link>https://observerbd.com/news/597249</link>
-            <guid isPermaLink="true">https://observerbd.com/news/597249</guid>
+            <title><![CDATA[Where Will Pedestrians Walk?]]></title>
+            <description><![CDATA[Dear Sir,Footpaths are meant to ensure safe and convenient movement for pedestrians. Yet in our]]></description>
+            <link>https://observerbd.com/news/597445</link>
+            <guid isPermaLink="true">https://observerbd.com/news/597445</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 15:04:32 GMT</pubDate>
+            <pubDate>Sun, 04 Oct 2026 18:56:04 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man at Her Feet, the Law between Them]]></title>
-            <description><![CDATA[At a Dhaka courthouse, I watched a man collapse at a woman’s feet.He held her]]></description>
-            <link>https://observerbd.com/news/597250</link>
-            <guid isPermaLink="true">https://observerbd.com/news/597250</guid>
-            <dc:creator><![CDATA[Ahasan Uddin Bhuiyan]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 15:04:32 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/10/03/ob_1791039338_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Unhealthy Food Habits Threaten Student Learning]]></title>
-            <description><![CDATA[Education is widely regarded as one of the most powerful instruments of national development. However,]]></description>
-            <link>https://observerbd.com/news/597251</link>
-            <guid isPermaLink="true">https://observerbd.com/news/597251</guid>
-            <dc:creator><![CDATA[SM KHALED CHOWDHURY]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 15:04:32 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/10/03/ob_1791039388_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
