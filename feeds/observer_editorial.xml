@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 15:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 19:50:20 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Oct 2026 15:14:58 GMT</pubDate>
+        <pubDate>Sun, 11 Oct 2026 19:50:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Our Dengue Defence Keeps Crumbling]]></title>
-            <description><![CDATA[If dengue cases continue to rise despite a nationwide prevention campaign, we must ask whether]]></description>
-            <link>https://observerbd.com/news/598680</link>
-            <guid isPermaLink="true">https://observerbd.com/news/598680</guid>
-            <pubDate>Sun, 11 Oct 2026 15:14:58 GMT</pubDate>
+            <title><![CDATA[Turbulent Delhi: Democracy in India under Test]]></title>
+            <description><![CDATA[Delhi’s escalating protests over electoral integrity, the detention of opposition leaders and sweeping police actions]]></description>
+            <link>https://observerbd.com/news/598942</link>
+            <guid isPermaLink="true">https://observerbd.com/news/598942</guid>
+            <dc:creator><![CDATA[Arnab Ashraf]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2026 19:50:20 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/10/12/ob_1791746292_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Delhi Protests: Beyond the Barricades, Police Crackdown]]></title>
+            <description><![CDATA[Protests do not erupt without a reason, and clearing the streets does not make that]]></description>
+            <link>https://observerbd.com/news/598943</link>
+            <guid isPermaLink="true">https://observerbd.com/news/598943</guid>
+            <dc:creator><![CDATA[Shaon Arafat]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2026 19:50:20 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/10/12/ob_1791746307_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Restore Trust in Public Recruitment]]></title>
+            <description><![CDATA[The cancellation of the Department of Youth Development’s recruitment examination has raised fresh concerns about]]></description>
+            <link>https://observerbd.com/news/598944</link>
+            <guid isPermaLink="true">https://observerbd.com/news/598944</guid>
+            <pubDate>Sun, 11 Oct 2026 19:50:20 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Dengue Control Requires Collective Action]]></title>
-            <description><![CDATA[Dear Sir,Dengue has become a major source of concern in Bangladesh, particularly during the monsoon]]></description>
-            <link>https://observerbd.com/news/598681</link>
-            <guid isPermaLink="true">https://observerbd.com/news/598681</guid>
+            <title><![CDATA[Practical Education Is Essential for Youth Skills Development]]></title>
+            <description><![CDATA[Dear Sir,According to the World Economic Forum, economic and technological changes could create around 170]]></description>
+            <link>https://observerbd.com/news/598945</link>
+            <guid isPermaLink="true">https://observerbd.com/news/598945</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 15:14:58 GMT</pubDate>
+            <pubDate>Sun, 11 Oct 2026 19:50:20 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Missing Link in Dengue Prevention]]></title>
-            <description><![CDATA[Dengue prevention in Bangladesh has often been approached as a mosquito-control exercise. When cases rise,]]></description>
-            <link>https://observerbd.com/news/598682</link>
-            <guid isPermaLink="true">https://observerbd.com/news/598682</guid>
-            <dc:creator><![CDATA[MD JAHEDUL ISLAM]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 15:14:58 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/10/10/ob_1791644649_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The High Cost of Mental Healthcare in a Traumatised Society]]></title>
-            <description><![CDATA[Does the high cost of therapy feel fair in Bangladesh? For a middle-class family in]]></description>
-            <link>https://observerbd.com/news/598683</link>
-            <guid isPermaLink="true">https://observerbd.com/news/598683</guid>
-            <dc:creator><![CDATA[Nadia Afroze Disha and Shahrin Khan]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 15:14:58 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/10/10/ob_1791644687_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
