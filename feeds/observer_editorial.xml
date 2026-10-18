@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 19:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 22:09:06 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Oct 2026 19:10:00 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 22:09:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Restore Transparency and Fairness to Railway E-Ticketing]]></title>
-            <description><![CDATA[Buying a train ticket online should be easy. Passengers should be able to log in,]]></description>
-            <link>https://observerbd.com/news/600147</link>
-            <guid isPermaLink="true">https://observerbd.com/news/600147</guid>
-            <pubDate>Sun, 18 Oct 2026 19:10:00 GMT</pubDate>
+            <title><![CDATA[Durga Puja: A Celebration beyond Faith]]></title>
+            <description><![CDATA[The rhythmic beats of dhak drums, the fragrance of shiuli flowers and the sight of]]></description>
+            <link>https://observerbd.com/news/600359</link>
+            <guid isPermaLink="true">https://observerbd.com/news/600359</guid>
+            <dc:creator><![CDATA[Humaira Parvin]]></dc:creator>
+            <pubDate>Sun, 18 Oct 2026 22:09:06 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/10/18/ob_1792341119_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Humanity of a Singaporean Woman—and Some Unpalatable Questions for Our Society!]]></title>
+            <description><![CDATA[I have had the opportunity to travel to many countries across Asia, Europe, and the]]></description>
+            <link>https://observerbd.com/news/600360</link>
+            <guid isPermaLink="true">https://observerbd.com/news/600360</guid>
+            <dc:creator><![CDATA[Rezaul Karim]]></dc:creator>
+            <pubDate>Sun, 18 Oct 2026 22:09:06 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Protect Our Children from Digital Addiction]]></title>
-            <description><![CDATA[Dear Sir,In this digital age, even prudent adults struggle to overcome social media addiction. It]]></description>
-            <link>https://observerbd.com/news/600148</link>
-            <guid isPermaLink="true">https://observerbd.com/news/600148</guid>
+            <title><![CDATA[Why Do Preventable Fires Keep Claiming Lives?]]></title>
+            <description><![CDATA[Why do preventable fires continue to claim lives in the country despite repeated warnings and]]></description>
+            <link>https://observerbd.com/news/600361</link>
+            <guid isPermaLink="true">https://observerbd.com/news/600361</guid>
+            <pubDate>Sun, 18 Oct 2026 22:09:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Let Train Horns Be Used More Actively]]></title>
+            <description><![CDATA[Dear Sir,Trains play an important role in improving our country's transport system and making travel]]></description>
+            <link>https://observerbd.com/news/600362</link>
+            <guid isPermaLink="true">https://observerbd.com/news/600362</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 19:10:00 GMT</pubDate>
+            <pubDate>Sun, 18 Oct 2026 22:09:06 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Freedom on Social Media Is Not a Licence to Abuse]]></title>
-            <description><![CDATA[It is not in my nature to comment on individuals or their behaviour towards others.]]></description>
-            <link>https://observerbd.com/news/600149</link>
-            <guid isPermaLink="true">https://observerbd.com/news/600149</guid>
-            <dc:creator><![CDATA[Abu Md Masani]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 19:10:00 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/10/17/ob_1792248972_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNG: An Alternative Pillar of Bangladesh’s Energy Security]]></title>
-            <description><![CDATA[Natural gas has been a cornerstone of Bangladesh’s industrialisation, supporting power generation, fertiliser production, textiles,]]></description>
-            <link>https://observerbd.com/news/600150</link>
-            <guid isPermaLink="true">https://observerbd.com/news/600150</guid>
-            <dc:creator><![CDATA[Engr Kazi Md Abdullah Al Borhan Rizvi]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 19:10:00 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/10/17/ob_1792248930_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
