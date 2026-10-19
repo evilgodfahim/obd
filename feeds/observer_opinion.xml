@@ -1,19 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Opinion (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Observer – Opinion]]></title>
+        <description><![CDATA[Latest opinion pieces from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 18:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 22:44:06 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/246" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 18:07:49 GMT</pubDate>
+        <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://observerbd.com</link>
-            <guid isPermaLink="true">https://observerbd.com</guid>
-            <pubDate>Mon, 19 Oct 2026 18:07:49 GMT</pubDate>
+            <title><![CDATA[Why does Maha Saptami span two dates in 2026?]]></title>
+            <description><![CDATA[Durga Puja celebrations continue across Bangladesh on Sunday, October 18, as the lunar date of]]></description>
+            <link>https://observerbd.com/news/600341</link>
+            <guid isPermaLink="true">https://observerbd.com/news/600341</guid>
+            <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/10/18/ob_75.1792333153_th.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maha Saptami: The sacred nine plants of Durga Puja]]></title>
+            <description><![CDATA[Maha Saptami marks a major stage of Sharadiya Durga Puja in Bangladesh on Saturday, October]]></description>
+            <link>https://observerbd.com/news/600154</link>
+            <guid isPermaLink="true">https://observerbd.com/news/600154</guid>
+            <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/10/17/ob_75.1792249738_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tesla on the ground vs Tesla in the sky]]></title>
+            <description><![CDATA[While battery-powered three-wheelers, popularly known as ‘Bangl Tesla’, serve everyday commuters in Bangladesh, US electric]]></description>
+            <link>https://observerbd.com/news/599958</link>
+            <guid isPermaLink="true">https://observerbd.com/news/599958</guid>
+            <dc:creator><![CDATA[Observer Online Report]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/10/16/ob_75.1792165776_th.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maha Shashthi: story behind Durga’s awakening]]></title>
+            <description><![CDATA[Maha Shashthi marks the formal beginning of Sharadiya Durga Puja in Bangladesh on Friday, October]]></description>
+            <link>https://observerbd.com/news/599913</link>
+            <guid isPermaLink="true">https://observerbd.com/news/599913</guid>
+            <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/10/16/ob_75.1792157490_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Resilience starts with Her: Empowering coastal women, girls for a safer tomorrow]]></title>
+            <description><![CDATA[Women and girls residing in the remote coastal regions of Bangladesh, including Barguna, Satkhira, Patuakhali,]]></description>
+            <link>https://observerbd.com/news/599486</link>
+            <guid isPermaLink="true">https://observerbd.com/news/599486</guid>
+            <dc:creator><![CDATA[Mst. Anjuman Ara Sumi]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/10/14/ob_76.1791976549_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s journey towards women’s empowerment]]></title>
+            <description><![CDATA[Bangladesh has produced women who challenged social conventions, led political movements and excelled in fields]]></description>
+            <link>https://observerbd.com/news/599290</link>
+            <guid isPermaLink="true">https://observerbd.com/news/599290</guid>
+            <dc:creator><![CDATA[Maliha Tabassum]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/10/13/ob_83.1791896394_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking the Cycle of Child Marriage: Root Causes, Intersectional Vulnerabilities, and Solutions]]></title>
+            <description><![CDATA[Child marriage is a severed violation of human rights that disproportionately affects girls and young]]></description>
+            <link>https://observerbd.com/news/599041</link>
+            <guid isPermaLink="true">https://observerbd.com/news/599041</guid>
+            <dc:creator><![CDATA[By Mst. Anjuman Ara Sumi]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quran and Sunnah above division: Which path should Muslims follow?]]></title>
+            <description><![CDATA[With Muslims in Bangladesh divided among different schools of thought, religious movements and interpretations, a]]></description>
+            <link>https://observerbd.com/news/598629</link>
+            <guid isPermaLink="true">https://observerbd.com/news/598629</guid>
+            <dc:creator><![CDATA[Aamir Al Hamza]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/10/10/ob_82.1791634430_th.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Saving the Sundarbans means including its people]]></title>
+            <description><![CDATA[Is the Sundarbans merely a forest? Or is it a living landscape of rivers, wildlife,]]></description>
+            <link>https://observerbd.com/news/598581</link>
+            <guid isPermaLink="true">https://observerbd.com/news/598581</guid>
+            <dc:creator><![CDATA[By Ankhee Siddika]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/10/10/ob_34.1791616010_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do you know why you can’t catch fish?]]></title>
+            <description><![CDATA[Catching fish has been a necessity for centuries in the advancement of human civilization. While]]></description>
+            <link>https://observerbd.com/news/598026</link>
+            <guid isPermaLink="true">https://observerbd.com/news/598026</guid>
+            <dc:creator><![CDATA[Shahman Abir]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/10/07/ob_76.1791370973_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is Adidas afraid of losing Messi?]]></title>
+            <description><![CDATA[“Thank you for loving me so much.” Those words from Lionel Messi have made adidas’]]></description>
+            <link>https://observerbd.com/news/597917</link>
+            <guid isPermaLink="true">https://observerbd.com/news/597917</guid>
+            <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/10/07/ob_75.1791340455_th.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A changing Indo-Pacific geopolitics for Bangladesh]]></title>
+            <description><![CDATA[The changing geopolitics of the Indo-Pacific is creating new opportunities and challenges for Bangladesh as]]></description>
+            <link>https://observerbd.com/news/596987</link>
+            <guid isPermaLink="true">https://observerbd.com/news/596987</guid>
+            <dc:creator><![CDATA[Rafsan Jani]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/10/02/ob_82.1790941329_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[October sky: Saturn, meteors and more to watch from B'desh]]></title>
+            <description><![CDATA[October will bring several notable celestial events for skywatchers in Bangladesh, with Saturn at opposition]]></description>
+            <link>https://observerbd.com/news/596629</link>
+            <guid isPermaLink="true">https://observerbd.com/news/596629</guid>
+            <dc:creator><![CDATA[Observer online report]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/09/30/ob_75.1790772334_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[An LPG reserve is an energy security investment Bangladesh can no longer postpone]]></title>
+            <description><![CDATA[A country does not discover the value of a fuel reserve on an ordinary day.]]></description>
+            <link>https://observerbd.com/news/595045</link>
+            <guid isPermaLink="true">https://observerbd.com/news/595045</guid>
+            <dc:creator><![CDATA[Capt. Mainul Ahsan]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/09/23/ob_34.1790143260_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[wealth versus dignity social inequality conceptual artwork]]></title>
+            <description><![CDATA[Since time immemorial, humanity has been divided into groups, factions, classes, communities, lineages, and geographical]]></description>
+            <link>https://observerbd.com/news/594900</link>
+            <guid isPermaLink="true">https://observerbd.com/news/594900</guid>
+            <dc:creator><![CDATA[A. U. Dowla]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/09/22/ob_80.1790074129_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apratim's death: Beyond an iPhone, our collective responsibility]]></title>
+            <description><![CDATA[Ishayat Shahriar Apratim, 13,the son of Comilla University teacher Dr Nahida Begum, was allegedly killed]]></description>
+            <link>https://observerbd.com/news/594496</link>
+            <guid isPermaLink="true">https://observerbd.com/news/594496</guid>
+            <dc:creator><![CDATA[Aamir Al Hamza]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 22:44:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/09/20/ob_82.1789905818_th.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
