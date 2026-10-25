@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 17:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 20:15:08 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Oct 2026 17:21:05 GMT</pubDate>
+        <pubDate>Sun, 25 Oct 2026 20:15:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Violence Persists in the CHT, It’s Time to Restore Peace, Security]]></title>
-            <description><![CDATA[The recent clashes in Sajek Valley, where gunfire injured seven security personnel and left nearly]]></description>
-            <link>https://observerbd.com/news/601555</link>
-            <guid isPermaLink="true">https://observerbd.com/news/601555</guid>
-            <pubDate>Sun, 25 Oct 2026 17:21:05 GMT</pubDate>
+            <title><![CDATA[The Sajek Crisis: Who Holds Authority in the Hills?]]></title>
+            <description><![CDATA[To view the recent crisis in Sajek merely as unrest at a tourist destination would]]></description>
+            <link>https://observerbd.com/news/601784</link>
+            <guid isPermaLink="true">https://observerbd.com/news/601784</guid>
+            <dc:creator><![CDATA[MAJOR (RTD) Rezaul Karim]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 20:15:08 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/10/25/ob_1792944410_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking Mosque Fund Management in Bangladesh]]></title>
+            <description><![CDATA[In Bangladesh, millions of people donate to mosques each year out of religious duty, appreciation]]></description>
+            <link>https://observerbd.com/news/601785</link>
+            <guid isPermaLink="true">https://observerbd.com/news/601785</guid>
+            <dc:creator><![CDATA[Surya Khanum Mim]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 20:15:08 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/10/25/ob_1792944482_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[State Bank Appointments Must Be Fair, Transparent]]></title>
+            <description><![CDATA[State-owned banks need capable leaders to overcome their longstanding weaknesses, but finding the right people]]></description>
+            <link>https://observerbd.com/news/601786</link>
+            <guid isPermaLink="true">https://observerbd.com/news/601786</guid>
+            <pubDate>Sun, 25 Oct 2026 20:15:08 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Ensure Campus Security at Rajshahi University]]></title>
-            <description><![CDATA[Dear Sir,Rajshahi University is a major centre of higher education in northern Bangladesh, but incidents]]></description>
-            <link>https://observerbd.com/news/601556</link>
-            <guid isPermaLink="true">https://observerbd.com/news/601556</guid>
+            <title><![CDATA[Ensure Transparency in Government Expenditure]]></title>
+            <description><![CDATA[Dear Sir,With the aim of ensuring national development, the government announces a budget every fiscal]]></description>
+            <link>https://observerbd.com/news/601787</link>
+            <guid isPermaLink="true">https://observerbd.com/news/601787</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 17:21:05 GMT</pubDate>
+            <pubDate>Sun, 25 Oct 2026 20:15:08 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Foreign Counsel at ICT: A Test of Credibility, a Chance to Set a New Precedent]]></title>
-            <description><![CDATA[When a state puts its own citizens on trial for the gravest crimes known to]]></description>
-            <link>https://observerbd.com/news/601557</link>
-            <guid isPermaLink="true">https://observerbd.com/news/601557</guid>
-            <dc:creator><![CDATA[Ahasan Uddin Bhuiyan]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 17:21:05 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/10/24/ob_1792851685_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How Legal Delays Are Wasting Tk 2,500cr outside Our Thanas]]></title>
-            <description><![CDATA[Along the roads outside Tejgaon, Kafrul and Banani police stations in Dhaka, rows of Toyota]]></description>
-            <link>https://observerbd.com/news/601558</link>
-            <guid isPermaLink="true">https://observerbd.com/news/601558</guid>
-            <dc:creator><![CDATA[Saraf Al Sakif]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 17:21:05 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/10/24/ob_48.1792851598_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
