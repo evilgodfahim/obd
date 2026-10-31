@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Observer – Editorial]]></title>
+        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 14:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 18:59:02 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 Oct 2026 14:11:38 GMT</pubDate>
+        <pubDate>Sat, 31 Oct 2026 18:59:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://observerbd.com</link>
-            <guid isPermaLink="true">https://observerbd.com</guid>
-            <pubDate>Sat, 31 Oct 2026 14:11:38 GMT</pubDate>
+            <title><![CDATA[HSC Results Once Again Expose Gaps in Our Education System]]></title>
+            <description><![CDATA[The publication of the 2026 Higher Secondary Certificate (HSC) and equivalent examination results on Saturday]]></description>
+            <link>https://observerbd.com/news/602994</link>
+            <guid isPermaLink="true">https://observerbd.com/news/602994</guid>
+            <pubDate>Sat, 31 Oct 2026 18:59:02 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who Is Accountable for the Poor HSC Results?]]></title>
+            <description><![CDATA[Dear Sir,The 2026 Higher Secondary Certificate (HSC) examination results, with only 52.12 per cent of]]></description>
+            <link>https://observerbd.com/news/602995</link>
+            <guid isPermaLink="true">https://observerbd.com/news/602995</guid>
+            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2026 18:59:02 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh Armed Forces: Pillars in Every Storm]]></title>
+            <description><![CDATA[On the night of 25 March 1971, the violence which was raging in Dhaka forced]]></description>
+            <link>https://observerbd.com/news/602996</link>
+            <guid isPermaLink="true">https://observerbd.com/news/602996</guid>
+            <dc:creator><![CDATA[Major Md Shazid Hossain Shohan, psc, Infantry]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2026 18:59:02 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/10/31/ob_1793455976_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Mother’s Agony & Self Esteem]]></title>
+            <description><![CDATA[Monira. She is a caregiver aide or to be frank and leaving out the cosmetics]]></description>
+            <link>https://observerbd.com/news/602997</link>
+            <guid isPermaLink="true">https://observerbd.com/news/602997</guid>
+            <dc:creator><![CDATA[Hemayet Uddin]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2026 18:59:02 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/10/31/ob_1793455933_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
