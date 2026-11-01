@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 15:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 20:02:06 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Nov 2026 15:40:02 GMT</pubDate>
+        <pubDate>Sun, 01 Nov 2026 20:02:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[HSC Results Once Again Expose Gaps in Our Education System]]></title>
-            <description><![CDATA[The publication of the 2026 Higher Secondary Certificate (HSC) and equivalent examination results on Saturday]]></description>
-            <link>https://observerbd.com/news/602994</link>
-            <guid isPermaLink="true">https://observerbd.com/news/602994</guid>
-            <pubDate>Sun, 01 Nov 2026 15:40:02 GMT</pubDate>
+            <title><![CDATA[The Impressive Algerian Revolution, November 1, 1954, and Its Impact on the Globe]]></title>
+            <description><![CDATA[From November 1, 1954, to November 2026, 72 years have passed since the start of]]></description>
+            <link>https://observerbd.com/news/603300</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603300</guid>
+            <dc:creator><![CDATA[Dayal Kumar Barua]]></dc:creator>
+            <pubDate>Sun, 01 Nov 2026 20:02:06 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/02/ob_1793560966_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How AI is Challenging Data Privacy Laws in Bangladesh]]></title>
+            <description><![CDATA[Imagine applying for a job, booking a ride or shopping online, only to discover that]]></description>
+            <link>https://observerbd.com/news/603301</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603301</guid>
+            <dc:creator><![CDATA[Humaira Adiba Kotha]]></dc:creator>
+            <pubDate>Sun, 01 Nov 2026 20:02:06 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/02/ob_1793561043_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kaptai Power Station Needs Repairs, but at What Cost?]]></title>
+            <description><![CDATA[There is little doubt that the two ageing units of the Karnafuli Hydropower Station in]]></description>
+            <link>https://observerbd.com/news/603302</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603302</guid>
+            <pubDate>Sun, 01 Nov 2026 20:02:06 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Who Is Accountable for the Poor HSC Results?]]></title>
-            <description><![CDATA[Dear Sir,The 2026 Higher Secondary Certificate (HSC) examination results, with only 52.12 per cent of]]></description>
-            <link>https://observerbd.com/news/602995</link>
-            <guid isPermaLink="true">https://observerbd.com/news/602995</guid>
+            <title><![CDATA[Time to Make Solar Energy a National Priority]]></title>
+            <description><![CDATA[Dear Sir,The recent initiative by Walton Hi-Tech Park in Chandra, Gazipur, has set a commendable]]></description>
+            <link>https://observerbd.com/news/603303</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603303</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 15:40:02 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 20:02:06 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Armed Forces: Pillars in Every Storm]]></title>
-            <description><![CDATA[On the night of 25 March 1971, the violence which was raging in Dhaka forced]]></description>
-            <link>https://observerbd.com/news/602996</link>
-            <guid isPermaLink="true">https://observerbd.com/news/602996</guid>
-            <dc:creator><![CDATA[Major Md Shazid Hossain Shohan, psc, Infantry]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 15:40:02 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/10/31/ob_1793455976_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Mother’s Agony & Self Esteem]]></title>
-            <description><![CDATA[Monira. She is a caregiver aide or to be frank and leaving out the cosmetics]]></description>
-            <link>https://observerbd.com/news/602997</link>
-            <guid isPermaLink="true">https://observerbd.com/news/602997</guid>
-            <dc:creator><![CDATA[Hemayet Uddin]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 15:40:02 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/10/31/ob_1793455933_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
