@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Editorial (error fallback)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Observer – Editorial]]></title>
+        <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 00:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 07:02:06 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Nov 2026 00:07:36 GMT</pubDate>
+        <pubDate>Mon, 02 Nov 2026 07:02:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://observerbd.com</link>
-            <guid isPermaLink="true">https://observerbd.com</guid>
-            <pubDate>Mon, 02 Nov 2026 00:07:36 GMT</pubDate>
+            <title><![CDATA[The Impressive Algerian Revolution, November 1, 1954, and Its Impact on the Globe]]></title>
+            <description><![CDATA[From November 1, 1954, to November 2026, 72 years have passed since the start of]]></description>
+            <link>https://observerbd.com/news/603300</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603300</guid>
+            <dc:creator><![CDATA[Dayal Kumar Barua]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 07:02:06 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/02/ob_1793560966_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How AI is Challenging Data Privacy Laws in Bangladesh]]></title>
+            <description><![CDATA[Imagine applying for a job, booking a ride or shopping online, only to discover that]]></description>
+            <link>https://observerbd.com/news/603301</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603301</guid>
+            <dc:creator><![CDATA[Humaira Adiba Kotha]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 07:02:06 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/02/ob_1793561043_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kaptai Power Station Needs Repairs, but at What Cost?]]></title>
+            <description><![CDATA[There is little doubt that the two ageing units of the Karnafuli Hydropower Station in]]></description>
+            <link>https://observerbd.com/news/603302</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603302</guid>
+            <pubDate>Mon, 02 Nov 2026 07:02:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Time to Make Solar Energy a National Priority]]></title>
+            <description><![CDATA[Dear Sir,The recent initiative by Walton Hi-Tech Park in Chandra, Gazipur, has set a commendable]]></description>
+            <link>https://observerbd.com/news/603303</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603303</guid>
+            <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 07:02:06 GMT</pubDate>
+            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
