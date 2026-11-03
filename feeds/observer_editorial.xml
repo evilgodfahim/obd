@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 15:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 21:24:37 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Nov 2026 15:41:58 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 21:24:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[RMG Wage Crisis Requires Structural Reform, Not Temporary Relief]]></title>
-            <description><![CDATA[The demand for a Tk 30,000 minimum monthly wage by garment workers in Mirpur, Ashulia]]></description>
-            <link>https://observerbd.com/news/603461</link>
-            <guid isPermaLink="true">https://observerbd.com/news/603461</guid>
-            <pubDate>Tue, 03 Nov 2026 15:41:58 GMT</pubDate>
+            <title><![CDATA[The Moral-Material Element for Development Planning of New Bangladesh]]></title>
+            <description><![CDATA[Today, the global humanity in general feels the need for, or cowers under the shroud]]></description>
+            <link>https://observerbd.com/news/603686</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603686</guid>
+            <dc:creator><![CDATA[Masudul Alam Choudhury]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 21:24:37 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/03/ob_1793725098_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Small States Anchor Modern Alliances]]></title>
+            <description><![CDATA[Military planners in Washington and Brussels have a bad habit of reducing alliance strength to]]></description>
+            <link>https://observerbd.com/news/603687</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603687</guid>
+            <dc:creator><![CDATA[Amina Amrin]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 21:24:37 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/03/ob_1793725138_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Dangerous World for Journalists]]></title>
+            <description><![CDATA[The killing of journalists is not merely an attack on individuals. At the same time]]></description>
+            <link>https://observerbd.com/news/603688</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603688</guid>
+            <pubDate>Tue, 03 Nov 2026 21:24:37 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Snatching Turns Dhaka into a City of Fear]]></title>
-            <description><![CDATA[Dear Sir,Dhaka is not only the capital of Bangladesh but also a place of dreams]]></description>
-            <link>https://observerbd.com/news/603462</link>
-            <guid isPermaLink="true">https://observerbd.com/news/603462</guid>
+            <title><![CDATA[Residential Areas Free from Noise Pollution]]></title>
+            <description><![CDATA[Dear Sir,Noise pollution has become a growing concern in Bangladesh’s cities, where residents are increasingly]]></description>
+            <link>https://observerbd.com/news/603689</link>
+            <guid isPermaLink="true">https://observerbd.com/news/603689</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 15:41:58 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 21:24:37 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Restoring the Rule of Law: Justice for All]]></title>
-            <description><![CDATA[Following the change of regime and the formation of an elected government in February 2026,]]></description>
-            <link>https://observerbd.com/news/603463</link>
-            <guid isPermaLink="true">https://observerbd.com/news/603463</guid>
-            <dc:creator><![CDATA[Shahiduzzaman]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 15:41:58 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/11/02/ob_1793630092_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How Prepared Is Bangladesh during the Extended LDC Graduation Period]]></title>
-            <description><![CDATA[During the 81st session of the United Nations General Assembly on October 29, the preparatory]]></description>
-            <link>https://observerbd.com/news/603464</link>
-            <guid isPermaLink="true">https://observerbd.com/news/603464</guid>
-            <dc:creator><![CDATA[Talukder Monjur Elahi]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 15:41:58 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/11/02/ob_1793630046_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
