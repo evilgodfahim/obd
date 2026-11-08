@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 14:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 19:16:35 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Nov 2026 14:41:22 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 19:16:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Titas Sheikh’s Sacrifice Must Not Be in Vain]]></title>
-            <description><![CDATA[Before we dive into security analyses, border policy, or regional crime trends, we need to]]></description>
-            <link>https://observerbd.com/news/604517</link>
-            <guid isPermaLink="true">https://observerbd.com/news/604517</guid>
-            <pubDate>Sun, 08 Nov 2026 14:41:22 GMT</pubDate>
+            <title><![CDATA[The Rohingya Crisis: How Long Can Bangladesh Bear the Burden?]]></title>
+            <description><![CDATA[Bangladesh’s response to the Rohingya crisis has been an extraordinary humanitarian undertaking, demonstrating its commitment]]></description>
+            <link>https://observerbd.com/news/604832</link>
+            <guid isPermaLink="true">https://observerbd.com/news/604832</guid>
+            <dc:creator><![CDATA[Shahiduzzaman]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 19:16:35 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/09/ob_1794163140_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Security and Sanitation Neglect Plague Our Government Quarters]]></title>
+            <description><![CDATA[Government housing quarters for officials and employees-both in the capital and across the country-are facing]]></description>
+            <link>https://observerbd.com/news/604833</link>
+            <guid isPermaLink="true">https://observerbd.com/news/604833</guid>
+            <dc:creator><![CDATA[MH Shimul]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 19:16:35 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/09/ob_1794163211_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Do Preventable Fires Keep Claiming Lives?]]></title>
+            <description><![CDATA[It is not only unfortunate but also unacceptable that a mentionable number of people lose]]></description>
+            <link>https://observerbd.com/news/604834</link>
+            <guid isPermaLink="true">https://observerbd.com/news/604834</guid>
+            <pubDate>Sun, 08 Nov 2026 19:16:35 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Stop Fraudulent Recruitment Practices behind Job Advertisements]]></title>
-            <description><![CDATA[Dear Sir,Unemployment is becoming an increasingly pressing concern in the country. Taking advantage of young]]></description>
-            <link>https://observerbd.com/news/604518</link>
-            <guid isPermaLink="true">https://observerbd.com/news/604518</guid>
+            <title><![CDATA[Clear Rickshaw Congestion around Metro Stations]]></title>
+            <description><![CDATA[Dear Sir,Metro rail has become a popular mode of transport among city dwellers, offering a]]></description>
+            <link>https://observerbd.com/news/604835</link>
+            <guid isPermaLink="true">https://observerbd.com/news/604835</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 14:41:22 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2026 19:16:35 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ground Improvement in Modern Era: Prefabricated Vertical Drains & Cement Mixing Piles]]></title>
-            <description><![CDATA[Bangladesh is the largest delta in the world. Most of the parts of the country]]></description>
-            <link>https://observerbd.com/news/604519</link>
-            <guid isPermaLink="true">https://observerbd.com/news/604519</guid>
-            <dc:creator><![CDATA[Lt Col MD MAHBUBUR RAHMAN KHAN, psc, Engrs]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 14:41:22 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/11/07/ob_1794061307_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can Justice Be Done without the Accused?]]></title>
-            <description><![CDATA[Can justice really be served if a defendant is absent from all stages of the]]></description>
-            <link>https://observerbd.com/news/604520</link>
-            <guid isPermaLink="true">https://observerbd.com/news/604520</guid>
-            <dc:creator><![CDATA[Sanjana Hossain]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 14:41:22 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/11/07/ob_1794061261_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
