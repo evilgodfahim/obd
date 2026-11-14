@@ -4,17 +4,26 @@
         <description><![CDATA[Latest opinion pieces from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Nov 2026 02:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 09:42:29 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/246" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+        <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[From custom to creed: How modern youth are embracing Tawhid]]></title>
+            <description><![CDATA[A pronounced theological revival centered on Tawhid—the foundational Islamic doctrine of the absolute, indivisible oneness]]></description>
+            <link>https://observerbd.com/news/606004</link>
+            <guid isPermaLink="true">https://observerbd.com/news/606004</guid>
+            <dc:creator><![CDATA[Evan Mollah]]></dc:creator>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
+            <enclosure url="https://observerbd.com/2026/11/14/ob_84.1794640324_th.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[How did Friday get its name?]]></title>
             <description><![CDATA[The names of the seven days of the week are so familiar that people rarely]]></description>
             <link>https://observerbd.com/news/605785</link>
             <guid isPermaLink="true">https://observerbd.com/news/605785</guid>
             <dc:creator><![CDATA[Abida Jannat Mohima]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/11/13/ob_81.1794554279_th.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -23,7 +32,7 @@
             <link>https://observerbd.com/news/605758</link>
             <guid isPermaLink="true">https://observerbd.com/news/605758</guid>
             <dc:creator><![CDATA[Aamir Al Hamza]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/11/13/ob_82.1794511391_th.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -32,7 +41,7 @@
             <link>https://observerbd.com/news/605609</link>
             <guid isPermaLink="true">https://observerbd.com/news/605609</guid>
             <dc:creator><![CDATA[Muhammad Shafiullah & Tahmid Zarif]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -41,7 +50,7 @@
             <link>https://observerbd.com/news/605574</link>
             <guid isPermaLink="true">https://observerbd.com/news/605574</guid>
             <dc:creator><![CDATA[Evan Mollah]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/11/12/ob_84.1794465300_th.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -50,7 +59,7 @@
             <link>https://observerbd.com/news/605402</link>
             <guid isPermaLink="true">https://observerbd.com/news/605402</guid>
             <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/11/11/ob_75.1794399101_th.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -59,7 +68,7 @@
             <link>https://observerbd.com/news/605345</link>
             <guid isPermaLink="true">https://observerbd.com/news/605345</guid>
             <dc:creator><![CDATA[Johny Hoque]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/11/11/ob_34.1794385200_th.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -68,7 +77,7 @@
             <link>https://observerbd.com/news/604252</link>
             <guid isPermaLink="true">https://observerbd.com/news/604252</guid>
             <dc:creator><![CDATA[Aamir Al Hamza]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/11/06/ob_82.1793965410_th.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -77,7 +86,7 @@
             <link>https://observerbd.com/news/604057</link>
             <guid isPermaLink="true">https://observerbd.com/news/604057</guid>
             <dc:creator><![CDATA[Shahman Abir]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/11/05/ob_76.1793874140_th.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -86,7 +95,7 @@
             <link>https://observerbd.com/news/604043</link>
             <guid isPermaLink="true">https://observerbd.com/news/604043</guid>
             <dc:creator><![CDATA[A. H. M. Faruk]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/11/05/ob_76.1793866707_th.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -95,7 +104,7 @@
             <link>https://observerbd.com/news/603452</link>
             <guid isPermaLink="true">https://observerbd.com/news/603452</guid>
             <dc:creator><![CDATA[Abida Jannat Mohima]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/11/02/ob_81.1793638271_th.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -104,7 +113,7 @@
             <link>https://observerbd.com/news/603201</link>
             <guid isPermaLink="true">https://observerbd.com/news/603201</guid>
             <dc:creator><![CDATA[Aamir Al Hamza]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/11/01/ob_82.1793533473_th.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -113,7 +122,7 @@
             <link>https://observerbd.com/news/602955</link>
             <guid isPermaLink="true">https://observerbd.com/news/602955</guid>
             <dc:creator><![CDATA[Rahul Deb Nath]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/10/31/ob_82.1793444594_th.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -122,7 +131,7 @@
             <link>https://observerbd.com/news/602745</link>
             <guid isPermaLink="true">https://observerbd.com/news/602745</guid>
             <dc:creator><![CDATA[Press Release]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/10/30/ob_75.1793350191_th.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -131,7 +140,7 @@
             <link>https://observerbd.com/news/601976</link>
             <guid isPermaLink="true">https://observerbd.com/news/601976</guid>
             <dc:creator><![CDATA[Sadia Rahman]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/10/26/ob_82.1793020882_th.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -140,17 +149,8 @@
             <link>https://observerbd.com/news/601728</link>
             <guid isPermaLink="true">https://observerbd.com/news/601728</guid>
             <dc:creator><![CDATA[Aamir Al Hamza]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 09:42:29 GMT</pubDate>
             <enclosure url="https://observerbd.com/2026/10/25/ob_82.1792925935_th.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maha Navami: Behind Durga’s battle against Mahishasura]]></title>
-            <description><![CDATA[Maha Navami, observed on Tuesday, October 20, marks a major stage of the concluding worship]]></description>
-            <link>https://observerbd.com/news/600727</link>
-            <guid isPermaLink="true">https://observerbd.com/news/600727</guid>
-            <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 02:51:01 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/10/20/ob_75.1792496452_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
