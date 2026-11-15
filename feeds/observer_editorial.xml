@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 16:00:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 20:55:49 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 16:00:21 GMT</pubDate>
+        <pubDate>Sun, 15 Nov 2026 20:55:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Political Patronage Must Not Shield Sexual Offenders]]></title>
-            <description><![CDATA[When we look at the numbers coming out of Police Headquarters for the first eight]]></description>
-            <link>https://observerbd.com/news/606112</link>
-            <guid isPermaLink="true">https://observerbd.com/news/606112</guid>
-            <pubDate>Sun, 15 Nov 2026 16:00:21 GMT</pubDate>
+            <title><![CDATA[How Community Theatre Can Advance Bangladesh’s SDGs]]></title>
+            <description><![CDATA[Statistics, policy documents, institutional projects and economic indicators are some of the ways we discuss]]></description>
+            <link>https://observerbd.com/news/606373</link>
+            <guid isPermaLink="true">https://observerbd.com/news/606373</guid>
+            <dc:creator><![CDATA[Dr Md Habibur Rahman]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 20:55:49 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/16/ob_1794771218_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Complicated Existence of Death Penalty]]></title>
+            <description><![CDATA[In April 2025, Michael Clark walked out of the Boulder County Jail in Colorado and]]></description>
+            <link>https://observerbd.com/news/606374</link>
+            <guid isPermaLink="true">https://observerbd.com/news/606374</guid>
+            <dc:creator><![CDATA[Nusrat Jahan Riajy]]></dc:creator>
+            <pubDate>Sun, 15 Nov 2026 20:55:49 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/16/ob_1794771274_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fake Milk Syndicates Must Face Music]]></title>
+            <description><![CDATA[Few drinks feel safer than pouring a glass of milk for a child, yet recent]]></description>
+            <link>https://observerbd.com/news/606375</link>
+            <guid isPermaLink="true">https://observerbd.com/news/606375</guid>
+            <pubDate>Sun, 15 Nov 2026 20:55:49 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Our Daughters Deserve Equal Opportunities]]></title>
-            <description><![CDATA[Dear Sir,The birth of a girl should bring the same hopes and possibilities as that]]></description>
-            <link>https://observerbd.com/news/606113</link>
-            <guid isPermaLink="true">https://observerbd.com/news/606113</guid>
+            <title><![CDATA[Food Safety Certificates Need Regular Verification]]></title>
+            <description><![CDATA[Dear Sir,Does a food safety certificate guarantee that the food we consume is safe? A]]></description>
+            <link>https://observerbd.com/news/606376</link>
+            <guid isPermaLink="true">https://observerbd.com/news/606376</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 16:00:21 GMT</pubDate>
+            <pubDate>Sun, 15 Nov 2026 20:55:49 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Teesta Triangle: Dhaka’s Strategic Autonomy]]></title>
-            <description><![CDATA[After many years of diplomatic deadlock, Bangladesh made an official request to Beijing in May]]></description>
-            <link>https://observerbd.com/news/606114</link>
-            <guid isPermaLink="true">https://observerbd.com/news/606114</guid>
-            <dc:creator><![CDATA[Sakiba Zannat Mim]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 16:00:21 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/11/14/ob_1794669215_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh Should View Nutrition as an Economic Investment, Not a Welfare Expense]]></title>
-            <description><![CDATA[A country’s progress is frequently assessed by the increase of GDP, expansion of infrastructure, industrial]]></description>
-            <link>https://observerbd.com/news/606115</link>
-            <guid isPermaLink="true">https://observerbd.com/news/606115</guid>
-            <dc:creator><![CDATA[Raisa Mehzabeen]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 16:00:21 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/11/14/ob_1794669177_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
