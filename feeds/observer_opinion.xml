@@ -1,156 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Observer – Opinion]]></title>
-        <description><![CDATA[Latest opinion pieces from The Daily Observer]]></description>
+        <title><![CDATA[The Daily Observer – Opinion (error fallback)]]></title>
+        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 16:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 22:55:23 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/246" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 22:55:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Rohingya genocide verdict: ICJ must apply the same justice to Israel]]></title>
-            <description><![CDATA[The International Court of Justice’s historic judgment holding Myanmar responsible for genocide against the Rohingya]]></description>
-            <link>https://observerbd.com/news/607546</link>
-            <guid isPermaLink="true">https://observerbd.com/news/607546</guid>
-            <dc:creator><![CDATA[Aamir Al Hamza]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/20/ob_82.1795180269_th.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Real estate revival can boost economic growth.]]></title>
-            <description><![CDATA[The real estate sector is closely linked to Bangladesh's economic progress, employment generation and urbanisation.]]></description>
-            <link>https://observerbd.com/news/607521</link>
-            <guid isPermaLink="true">https://observerbd.com/news/607521</guid>
-            <dc:creator><![CDATA[Salauddin]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/20/ob_82.1795173384_th.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Women]]></title>
-            <description><![CDATA[Women Farhin Rahman TarannumI would choose to be a girl in every single lifetime,I would]]></description>
-            <link>https://observerbd.com/news/607490</link>
-            <guid isPermaLink="true">https://observerbd.com/news/607490</guid>
-            <dc:creator><![CDATA[Farhin Rahman Tarannum]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/20/ob_76.1795163329_th.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Expectations for a prosperous Bangladesh under the leadership of Tarique Rahman]]></title>
-            <description><![CDATA[A birthday is a special occasion for personal joy and self-reflection. However, the birthdays of]]></description>
-            <link>https://observerbd.com/news/607486</link>
-            <guid isPermaLink="true">https://observerbd.com/news/607486</guid>
-            <dc:creator><![CDATA[Prof Dr. Mohammad Siddiqur Rahman Khan]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/20/ob_76.1795161313_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A pioneering engineering professional advancing rooftop solar energy in B’desh]]></title>
-            <description><![CDATA[At a time when Bangladesh is increasingly focusing on renewable energy to address energy security,]]></description>
-            <link>https://observerbd.com/news/606769</link>
-            <guid isPermaLink="true">https://observerbd.com/news/606769</guid>
-            <dc:creator><![CDATA[Somiron Mistry]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/17/ob_76.1794904711_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bond gets a new face as Pattinson takes over 007 role]]></title>
-            <description><![CDATA[Hollywood actor Robert Pattinson has officially been announced as the next James Bond, taking over]]></description>
-            <link>https://observerbd.com/news/606761</link>
-            <guid isPermaLink="true">https://observerbd.com/news/606761</guid>
-            <dc:creator><![CDATA[Abida Jannat Mohima]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/17/ob_81.1794901081_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[So, aliens are real then?]]></title>
-            <description><![CDATA[Humans contain immeasurable eagerness about something that has not been discovered yet. When it comes]]></description>
-            <link>https://observerbd.com/news/606488</link>
-            <guid isPermaLink="true">https://observerbd.com/news/606488</guid>
-            <dc:creator><![CDATA[Shahman Abir]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/16/ob_76.1794813642_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Winter guests are returning to Bangladesh, Will they find a safe home?]]></title>
-            <description><![CDATA[Every winter, thousands of birds travel thousands of kilometres to reach Bangladesh. They cross mountains,]]></description>
-            <link>https://observerbd.com/news/606308</link>
-            <guid isPermaLink="true">https://observerbd.com/news/606308</guid>
-            <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/15/ob_75.1794743829_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[From custom to creed: How modern youth are embracing Tawhid]]></title>
-            <description><![CDATA[A pronounced theological revival centered on Tawhid—the foundational Islamic doctrine of the absolute, indivisible oneness]]></description>
-            <link>https://observerbd.com/news/606004</link>
-            <guid isPermaLink="true">https://observerbd.com/news/606004</guid>
-            <dc:creator><![CDATA[Evan Mollah]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/14/ob_84.1794640324_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How did Friday get its name?]]></title>
-            <description><![CDATA[The names of the seven days of the week are so familiar that people rarely]]></description>
-            <link>https://observerbd.com/news/605785</link>
-            <guid isPermaLink="true">https://observerbd.com/news/605785</guid>
-            <dc:creator><![CDATA[Abida Jannat Mohima]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/13/ob_81.1794554279_th.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Humayun Ahmed’s 78th birthday: A legacy that lives on in people’s hearts]]></title>
-            <description><![CDATA[The 78th birth anniversary of legendary Bangladeshi novelist, playwright, filmmaker and academician Humayun Ahmed is]]></description>
-            <link>https://observerbd.com/news/605758</link>
-            <guid isPermaLink="true">https://observerbd.com/news/605758</guid>
-            <dc:creator><![CDATA[Aamir Al Hamza]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/13/ob_82.1794511391_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Post-COVID friendships: A hidden economic challenge]]></title>
-            <description><![CDATA[There is a typical contradiction in university life. Students have never been more connected, and]]></description>
-            <link>https://observerbd.com/news/605609</link>
-            <guid isPermaLink="true">https://observerbd.com/news/605609</guid>
-            <dc:creator><![CDATA[Muhammad Shafiullah & Tahmid Zarif]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Behind student suicides: When grades become a matter of survival]]></title>
-            <description><![CDATA[Behind every post-examination suicide lies a quiet, crushing reality where relentless parental expectations, social shame,]]></description>
-            <link>https://observerbd.com/news/605574</link>
-            <guid isPermaLink="true">https://observerbd.com/news/605574</guid>
-            <dc:creator><![CDATA[Evan Mollah]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/12/ob_84.1794465300_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is your smartphone listening to your conversations?]]></title>
-            <description><![CDATA[You are chatting with a friend about buying a new phone, planning a holiday or]]></description>
-            <link>https://observerbd.com/news/605402</link>
-            <guid isPermaLink="true">https://observerbd.com/news/605402</guid>
-            <dc:creator><![CDATA[Sakia Kawser Siddique]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/11/ob_75.1794399101_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nirjo Habib: A distinctive voice with global potential]]></title>
-            <description><![CDATA[Assessing a musical artiste involves more than popularity or vocal performance. It requires a clear]]></description>
-            <link>https://observerbd.com/news/605345</link>
-            <guid isPermaLink="true">https://observerbd.com/news/605345</guid>
-            <dc:creator><![CDATA[Johny Hoque]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/11/ob_34.1794385200_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran defeated Trump in war and midterms]]></title>
-            <description><![CDATA[Iran has emerged as a major political challenge for US President Donald Trump, as the]]></description>
-            <link>https://observerbd.com/news/604252</link>
-            <guid isPermaLink="true">https://observerbd.com/news/604252</guid>
-            <dc:creator><![CDATA[Aamir Al Hamza]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 16:42:24 GMT</pubDate>
-            <enclosure url="https://observerbd.com/2026/11/06/ob_82.1793965410_th.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Feed generation failed]]></title>
+            <description><![CDATA[An error occurred during scraping.]]></description>
+            <link>https://observerbd.com</link>
+            <guid isPermaLink="true">https://observerbd.com</guid>
+            <pubDate>Fri, 20 Nov 2026 22:55:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
