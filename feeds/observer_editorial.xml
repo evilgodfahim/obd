@@ -4,43 +4,43 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 10:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 22:22:43 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 10:06:22 GMT</pubDate>
+        <pubDate>Mon, 23 Nov 2026 22:22:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How the Hague’s Rohingya Verdict Arms South Africa’s Case against Israel]]></title>
-            <description><![CDATA[For decades, the legal architecture surrounding the 1948 Genocide Convention has operated like an iron]]></description>
-            <link>https://observerbd.com/news/608106</link>
-            <guid isPermaLink="true">https://observerbd.com/news/608106</guid>
-            <dc:creator><![CDATA[Amina Amrin]]></dc:creator>
-            <pubDate>Mon, 23 Nov 2026 10:06:22 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/11/22/ob_1795370477_th.jpg" length="0" type="image/jpeg"/>
+            <title><![CDATA[The Strait of Hormuz: How Regional Conflicts Become Global Security Crises]]></title>
+            <description><![CDATA[The Strait of Hormuz, a narrow channel between Iran and Oman, is the Persian Gulf's]]></description>
+            <link>https://observerbd.com/news/608385</link>
+            <guid isPermaLink="true">https://observerbd.com/news/608385</guid>
+            <dc:creator><![CDATA[Colonel Syed Salauddin Mahmud, psc]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 22:22:43 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/23/ob_1795455541_th.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[How AI Is Challenging Access to Justice in Bangladesh]]></title>
-            <description><![CDATA[Imagine a lawyer standing before a court, confidently presenting a judicial precedent that does not]]></description>
-            <link>https://observerbd.com/news/608107</link>
-            <guid isPermaLink="true">https://observerbd.com/news/608107</guid>
-            <dc:creator><![CDATA[Jarin Tasnim]]></dc:creator>
-            <pubDate>Mon, 23 Nov 2026 10:06:22 GMT</pubDate>
+            <title><![CDATA[Are We Educating Students or Just Preparing Them for Exams?]]></title>
+            <description><![CDATA[Students in Bangladesh are increasingly preoccupied with familiar measures of academic success, such as GPAs,]]></description>
+            <link>https://observerbd.com/news/608386</link>
+            <guid isPermaLink="true">https://observerbd.com/news/608386</guid>
+            <dc:creator><![CDATA[Syed Shahriar Alamin]]></dc:creator>
+            <pubDate>Mon, 23 Nov 2026 22:22:43 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/23/ob_1795455674_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Save the Buriganga from Industrial Pollution]]></title>
+            <description><![CDATA[We are deeply concerned that factories continue to dump untreated waste straight into the Buriganga,]]></description>
+            <link>https://observerbd.com/news/608387</link>
+            <guid isPermaLink="true">https://observerbd.com/news/608387</guid>
+            <pubDate>Mon, 23 Nov 2026 22:22:43 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[PM’s call for a Stronger Military, and a More Dignified Nation]]></title>
-            <description><![CDATA[Armed Forces Day observed on 21 November every year is more than just an occasion]]></description>
-            <link>https://observerbd.com/news/608108</link>
-            <guid isPermaLink="true">https://observerbd.com/news/608108</guid>
-            <pubDate>Mon, 23 Nov 2026 10:06:22 GMT</pubDate>
-            <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[End the Politics of Arson, Vandalism]]></title>
-            <description><![CDATA[Dear Sir,The current political situation in Bangladesh is deeply concerning. Almost every day, newspapers and]]></description>
-            <link>https://observerbd.com/news/608109</link>
-            <guid isPermaLink="true">https://observerbd.com/news/608109</guid>
+            <title><![CDATA[Education Must Be a Journey, Not a Race]]></title>
+            <description><![CDATA[Dear Sir,Education is the centre of learning. Once, we believed that the classroom was where]]></description>
+            <link>https://observerbd.com/news/608388</link>
+            <guid isPermaLink="true">https://observerbd.com/news/608388</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Mon, 23 Nov 2026 10:06:22 GMT</pubDate>
+            <pubDate>Mon, 23 Nov 2026 22:22:43 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
