@@ -4,44 +4,44 @@
         <description><![CDATA[Latest editorials from The Daily Observer]]></description>
         <link>https://observerbd.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Nov 2026 11:58:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 21:09:38 GMT</lastBuildDate>
         <atom:link href="https://observerbd.com/menu/199" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Nov 2026 11:58:24 GMT</pubDate>
+        <pubDate>Wed, 25 Nov 2026 21:09:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Between Ambition and Deadlock:An Overview of COP31 in Antalya]]></title>
-            <description><![CDATA[When delegates from nearly 200 nations gathered in Antalya, Türkiye, in November 2026 for the]]></description>
-            <link>https://observerbd.com/news/608635</link>
-            <guid isPermaLink="true">https://observerbd.com/news/608635</guid>
-            <dc:creator><![CDATA[Prof Dr Ahmad Kamruzzaman Majumder]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 11:58:24 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/11/24/ob_1795536401_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Institutional Harassment Is No Less Harmful Than Corruption]]></title>
-            <description><![CDATA[A bribe can be recorded in an account book, but institutional harassment leaves no such]]></description>
-            <link>https://observerbd.com/news/608636</link>
-            <guid isPermaLink="true">https://observerbd.com/news/608636</guid>
-            <dc:creator><![CDATA[Amir Mohammed Khosru]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 11:58:24 GMT</pubDate>
-            <enclosure url="https://www.observerbd.com:443/2026/11/24/ob_1795536461_th.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Fair Wage for a Stronger, Sustainable RMG Sector]]></title>
-            <description><![CDATA[We wholeheartedly welcome both garment owners and workers for jointly agreeing to revise their proposals]]></description>
-            <link>https://observerbd.com/news/608637</link>
-            <guid isPermaLink="true">https://observerbd.com/news/608637</guid>
-            <pubDate>Wed, 25 Nov 2026 11:58:24 GMT</pubDate>
+            <title><![CDATA[Protect Our Migrant Workers from Dubious Manpower Agencies]]></title>
+            <description><![CDATA[We warmly welcome the reopening of Malaysia’s labour market for Bangladeshi workers after more than]]></description>
+            <link>https://observerbd.com/news/608875</link>
+            <guid isPermaLink="true">https://observerbd.com/news/608875</guid>
+            <pubDate>Wed, 25 Nov 2026 21:09:38 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Ensure Electricity Backup in Exam Halls]]></title>
-            <description><![CDATA[Dear Sir,Examinations are an important part of every student’s life, particularly final and board examinations,]]></description>
-            <link>https://observerbd.com/news/608638</link>
-            <guid isPermaLink="true">https://observerbd.com/news/608638</guid>
+            <title><![CDATA[Restore Bank Transaction Hours until 4pm]]></title>
+            <description><![CDATA[Dear Sir,Bank transaction hours were reduced from 10am-4pm to 10am-3pm to save electricity during a]]></description>
+            <link>https://observerbd.com/news/608876</link>
+            <guid isPermaLink="true">https://observerbd.com/news/608876</guid>
             <dc:creator><![CDATA[Letter To the Editor]]></dc:creator>
-            <pubDate>Wed, 25 Nov 2026 11:58:24 GMT</pubDate>
+            <pubDate>Wed, 25 Nov 2026 21:09:38 GMT</pubDate>
             <enclosure url="https://observerbd.com/images/no_image.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shenzhen Summit and the Return of Great-Power Diplomacy]]></title>
+            <description><![CDATA[The first gathering of the Chinese, Russian and American leaders in Shenzhen carried the weight]]></description>
+            <link>https://observerbd.com/news/608877</link>
+            <guid isPermaLink="true">https://observerbd.com/news/608877</guid>
+            <dc:creator><![CDATA[Md Tareq Hasan]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 21:09:38 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/25/ob_1795619282_th.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dowry Violence in Bangladesh: Gap between Legal Protection and Actual Justice]]></title>
+            <description><![CDATA[The practice of dowry is a social practice in which women are treated like chattel,]]></description>
+            <link>https://observerbd.com/news/608878</link>
+            <guid isPermaLink="true">https://observerbd.com/news/608878</guid>
+            <dc:creator><![CDATA[Farshia Jahan Mahim]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 21:09:38 GMT</pubDate>
+            <enclosure url="https://www.observerbd.com:443/2026/11/25/ob_1795619251_th.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
